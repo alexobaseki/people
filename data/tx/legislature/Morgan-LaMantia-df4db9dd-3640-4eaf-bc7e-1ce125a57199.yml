@@ -4,7 +4,7 @@ given_name: Morgan
 family_name: LaMantia
 gender: Female
 email: morgan.lamantia@senate.texas.gov
-image: https://senate.texas.gov/members/d27/img/Lamantia-00271-Edit-web.jpg
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/123925.jpg
 party:
 - name: Democratic
 roles:
@@ -14,19 +14,20 @@ roles:
   district: '27'
 offices:
 - classification: district
-  address: 1324 E. Madison, Brownsville, TX 78520
-  voice: 956-542-2211
-  fax: 956-542-2211
-- classification: district
-  address: 700 Farm to Market Road 3168, Raymondville, TX 78580
-  voice: 956-542-2211
+  address: 1702 U.S. Highway 181 Suite B3, Portland, TX 78374
+  voice: 361-643-0028
 - classification: capitol-mail
   address: P.O. Box 12068 Capitol Station, Austin, TX 78711
   voice: 512-463-0127
 - classification: district
-  address: 1702 U.S. Highway 181 Suite B3, Portland, TX 78374
-  voice: 361-643-0028
+  address: 700 Farm to Market Road 3168, Raymondville, TX 78580
+  voice: 956-542-2211
+- classification: district
+  address: 1324 E. Madison, Brownsville, TX 78520
+  voice: 956-542-2211
+  fax: 956-542-2211
 links:
 - url: https://senate.texas.gov/member.php?d=27
 sources:
 - url: https://senate.texas.gov/member.php?d=27
+- url: https://ballotpedia.org/Morgan_LaMantia

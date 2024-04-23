@@ -5,7 +5,7 @@ family_name: Rosenthal
 birth_date: '1963-08-17'
 gender: Male
 email: jon.rosenthal@house.texas.gov
-image: https://house.texas.gov/members/photos/3635.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/74796.jpg
 party:
 - name: Democratic
 roles:
@@ -26,3 +26,7 @@ other_names:
 - name: Jon E. Rosenthal
 sources:
 - url: https://house.texas.gov/members/member-page/?district=135
+- url: https://en.wikipedia.org/wiki/Jon_Rosenthal
+- url: https://justfacts.votesmart.org/candidate/biography/177561/jon-rosenthal
+- url: https://www.linkedin.com/in/jonr10
+- url: https://ballotpedia.org/Jon_Rosenthal

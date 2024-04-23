@@ -5,7 +5,7 @@ family_name: Lozano
 birth_date: '1980-05-23'
 gender: Male
 email: jm.lozano@house.texas.gov
-image: https://house.texas.gov/members/photos/2065.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/23075.jpg
 party:
 - name: Republican
 roles:
@@ -31,3 +31,7 @@ other_identifiers:
   identifier: TXL000657
 sources:
 - url: https://house.texas.gov/members/member-page/?district=43
+- url: https://en.wikipedia.org/wiki/J._M._Lozano
+- url: https://justfacts.votesmart.org/candidate/biography/116981/jm-lozano
+- url: https://www.linkedin.com/in/jose-lozano-448a6048
+- url: https://ballotpedia.org/J.M._Lozano

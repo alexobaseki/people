@@ -4,7 +4,7 @@ given_name: Carl H.
 family_name: Tepper
 gender: Male
 email: carl.tepper@house.texas.gov
-image: https://house.texas.gov/members/photos/4360.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/125101.jpg
 party:
 - name: Republican
 roles:
@@ -17,7 +17,7 @@ offices:
   address: 6515 68th St. Suite 200-7, Lubbock, TX 79424
   voice: 806-407-5633
 - classification: capitol
-  address: Room E1.316, P.O. Box 2910, Austin, TX 2910
+  address: Room E1.316, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0676
 links:
 - url: https://house.texas.gov/members/member-page/?district=84
@@ -26,3 +26,5 @@ other_names:
 - name: Tepper
 sources:
 - url: https://house.texas.gov/members/member-page/?district=84
+- url: https://www.linkedin.com/in/carl-tepper-6ba995178
+- url: https://ballotpedia.org/Carl_Tepper

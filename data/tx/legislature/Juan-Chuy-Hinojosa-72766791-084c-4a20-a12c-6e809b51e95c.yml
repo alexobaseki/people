@@ -5,7 +5,7 @@ family_name: Hinojosa
 birth_date: '1946-03-07'
 gender: Male
 email: juan.hinojosa@senate.texas.gov
-image: https://senate.texas.gov/members/d20/img/Hinojosa_84-0784D-006.jpg
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/44575.jpg
 party:
 - name: Democratic
 roles:
@@ -15,10 +15,6 @@ roles:
   district: '20'
 offices:
 - classification: district
-  address: 1508 S. Lone Star Way Suite 6A, Edinburg, TX 78539
-  voice: 956-318-0725
-  fax: 956-664-0602
-- classification: district
   address: 602 N. Staples St. Suite 200, Corpus Christi, TX 78401
   voice: 361-882-0900
   fax: 361-882-0902
@@ -26,6 +22,10 @@ offices:
   address: P.O. Box 12068 Capitol Station, Austin, TX 78711
   voice: 512-463-0120
   fax: 512-463-0229
+- classification: district
+  address: 1508 S. Lone Star Way Suite 6A, Edinburg, TX 78539
+  voice: 956-318-0725
+  fax: 956-664-0602
 links:
 - url: https://senate.texas.gov/member.php?d=20
 other_names:
@@ -40,3 +40,7 @@ other_identifiers:
   identifier: TXL000600
 sources:
 - url: https://senate.texas.gov/member.php?d=20
+- url: https://en.wikipedia.org/wiki/Juan_Hinojosa
+- url: https://justfacts.votesmart.org/candidate/biography/10049/juan-hinojosa
+- url: https://www.linkedin.com/in/senator-juan-chuy-hinojosa-7541b064
+- url: https://ballotpedia.org/Juan_Hinojosa

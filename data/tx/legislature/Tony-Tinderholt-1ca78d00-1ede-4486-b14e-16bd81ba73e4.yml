@@ -5,7 +5,7 @@ family_name: Tinderholt
 birth_date: '1970-08-13'
 gender: Male
 email: tony.tinderholt@house.texas.gov
-image: https://house.texas.gov/members/photos/3065.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/47338.jpg
 party:
 - name: Republican
 roles:
@@ -29,3 +29,7 @@ other_identifiers:
   identifier: TXL000616
 sources:
 - url: https://house.texas.gov/members/member-page/?district=94
+- url: https://en.wikipedia.org/wiki/Tony_Tinderholt
+- url: https://justfacts.votesmart.org/candidate/biography/147676/tony-tinderholt
+- url: https://www.linkedin.com/in/tony-tinderholt-b16b2a4
+- url: https://ballotpedia.org/Tony_Tinderholt

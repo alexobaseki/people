@@ -4,7 +4,7 @@ given_name: Vikki
 family_name: Goodwin
 gender: Female
 email: vikki.goodwin@house.texas.gov
-image: https://house.texas.gov/members/photos/3820.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/74571.jpg
 party:
 - name: Democratic
 roles:
@@ -21,3 +21,6 @@ links:
 - url: https://house.texas.gov/members/member-page/?district=47
 sources:
 - url: https://house.texas.gov/members/member-page/?district=47
+- url: https://justfacts.votesmart.org/candidate/biography/177448/vikki-goodwin
+- url: https://www.linkedin.com/in/vikki-goodwin-2403b8
+- url: https://ballotpedia.org/Vikki_Goodwin

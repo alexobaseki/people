@@ -5,7 +5,7 @@ family_name: Hinojosa
 birth_date: '1973-12-08'
 gender: Female
 email: gina.hinojosa@house.texas.gov
-image: https://house.texas.gov/members/photos/3210.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/61027.jpg
 party:
 - name: Democratic
 roles:
@@ -25,3 +25,7 @@ other_identifiers:
   identifier: TXL000692
 sources:
 - url: https://house.texas.gov/members/member-page/?district=49
+- url: https://en.wikipedia.org/wiki/Gina_Hinojosa
+- url: https://justfacts.votesmart.org/candidate/biography/166708/gina-hinojosa
+- url: https://www.linkedin.com/in/gina-hinojosa-b8262b25
+- url: https://ballotpedia.org/Gina_Hinojosa

@@ -5,7 +5,7 @@ family_name: Cortez
 birth_date: '1978-07-07'
 gender: Male
 email: philip.cortez@house.texas.gov
-image: https://house.texas.gov/members/photos/2365.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/61023.jpg
 party:
 - name: Democratic
 roles:
@@ -32,3 +32,7 @@ other_identifiers:
   identifier: ocd-person/171dd255-22ce-4ad5-86af-1ee81d340a60
 sources:
 - url: https://house.texas.gov/members/member-page/?district=117
+- url: https://en.wikipedia.org/wiki/Philip_Cortez
+- url: https://justfacts.votesmart.org/candidate/biography/78684/philip-cortez
+- url: https://www.linkedin.com/in/philip-cortez-ph-d-0b361311
+- url: https://ballotpedia.org/Philip_Cortez

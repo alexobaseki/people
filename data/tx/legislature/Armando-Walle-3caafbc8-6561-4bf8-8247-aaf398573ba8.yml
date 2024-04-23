@@ -5,7 +5,7 @@ family_name: Walle
 birth_date: '1978-03-07'
 gender: Male
 email: armando.walle@house.texas.gov
-image: https://house.texas.gov/members/photos/4930.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/1883.jpg
 party:
 - name: Democratic
 roles:
@@ -15,9 +15,7 @@ roles:
   district: '140'
 offices:
 - classification: district
-  address: 150 W. Parker Road Suite 700, Houston, TX 77076
-  voice: 713-694-8620
-  fax: 713-694-8613
+  address: 2909 East Aldine Amphitheatre Drive Suite 207, Houston, TX 77039
 - classification: capitol-mail
   address: Room GW.5, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0924
@@ -33,3 +31,5 @@ other_identifiers:
   identifier: TXL000563
 sources:
 - url: https://house.texas.gov/members/member-page/?district=140
+- url: https://en.wikipedia.org/wiki/Armando_Walle
+- url: https://ballotpedia.org/Armando_Walle

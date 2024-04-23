@@ -5,6 +5,7 @@ family_name: Bryant
 birth_date: '1947-02-22'
 gender: Male
 email: john.bryant@house.texas.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/122926.jpg
 party:
 - name: Democratic
 roles:
@@ -16,3 +17,5 @@ links:
 - url: https://house.texas.gov/members/member-page/?district=114
 sources:
 - url: https://house.texas.gov/members/member-page/?district=114
+- url: https://en.wikipedia.org/wiki/John_Wiley_Bryant
+- url: https://ballotpedia.org/John_Bryant_(United_States_House_of_Representatives)

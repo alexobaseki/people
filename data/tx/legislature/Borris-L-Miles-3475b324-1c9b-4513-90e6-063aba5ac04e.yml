@@ -5,7 +5,7 @@ family_name: Miles
 birth_date: '1965-10-23'
 gender: Male
 email: borris.miles@senate.texas.gov
-image: https://senate.texas.gov/members/d13/img/87-0267D-008-web.jpg
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/23173.jpg
 party:
 - name: Democratic
 roles:
@@ -22,15 +22,15 @@ offices:
 - classification: district
   address: 2440 Texas Parkway Suite 110, Missouri City, TX 77489
   voice: 281-261-2360
-- classification: capitol-mail
-  address: P.O. Box 12068 Capitol Station, Austin, TX 78711
-  voice: 512-463-0113
 - classification: district
   address: 5302 Almeda Road Suite A, Houston, TX 77004
   voice: 713-665-8322
 - classification: district
   address: 3300 Lyons Ave. Suite 301, Houston, TX 77020
   voice: 713-223-0387
+- classification: capitol-mail
+  address: P.O. Box 12068 Capitol Station, Austin, TX 78711
+  voice: 512-463-0113
 links:
 - url: https://senate.texas.gov/member.php?d=13
 other_names:
@@ -46,3 +46,7 @@ other_identifiers:
   identifier: ocd-person/619d2cdd-788c-4582-ae13-85a44c32ae48
 sources:
 - url: https://senate.texas.gov/member.php?d=13
+- url: https://en.wikipedia.org/wiki/Borris_Miles
+- url: https://justfacts.votesmart.org/candidate/biography/59415/borris-miles
+- url: https://www.linkedin.com/in/borris-miles-88a5a84a
+- url: https://ballotpedia.org/Borris_Miles

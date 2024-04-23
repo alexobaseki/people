@@ -5,7 +5,7 @@ family_name: Burns
 birth_date: '1972-06-22'
 gender: Male
 email: dewayne.burns@house.texas.gov
-image: https://house.texas.gov/members/photos/2975.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/47390.jpg
 party:
 - name: Republican
 roles:
@@ -29,3 +29,6 @@ other_identifiers:
   identifier: TXL000542
 sources:
 - url: https://house.texas.gov/members/member-page/?district=58
+- url: https://en.wikipedia.org/wiki/DeWayne_Burns
+- url: https://justfacts.votesmart.org/candidate/biography/147636/dewayne-burns
+- url: https://ballotpedia.org/DeWayne_Burns

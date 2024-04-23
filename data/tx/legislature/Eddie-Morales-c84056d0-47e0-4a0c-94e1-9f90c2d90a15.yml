@@ -5,7 +5,7 @@ family_name: Morales
 birth_date: '1975-01-24'
 gender: Male
 email: eddie.morales@house.texas.gov
-image: https://house.texas.gov/members/photos/4000.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/94873.jpg
 party:
 - name: Democratic
 roles:
@@ -16,15 +16,17 @@ roles:
 offices:
 - classification: district
   address: 100 S. Monroe St., Eagle Pass, TX 78852
+- classification: district
+  address: 1915 Veterans Blvd., Del Rio, TX 78840
 - classification: capitol-mail
   address: Room E1.212, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0566
   fax: 512-463-0220
-- classification: district
-  address: 1915 Veterans Blvd., Del Rio, TX 78840
 links:
 - url: https://house.texas.gov/members/member-page/?district=74
 other_names:
 - name: Morales, Eddie
 sources:
 - url: https://house.texas.gov/members/member-page/?district=74
+- url: https://en.wikipedia.org/wiki/Eddie_Morales
+- url: https://ballotpedia.org/Eddie_Morales_Jr.

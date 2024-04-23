@@ -5,7 +5,7 @@ family_name: Davis
 birth_date: '1955-02-04'
 gender: Female
 email: yvonne.davis@house.texas.gov
-image: https://house.texas.gov/members/photos/2625.jpg?v=88.25
+image: https://cdn.ballotpedia.org/images/thumb/0/06/Yvonne_Davis.jpg/200px-Yvonne_Davis.jpg
 party:
 - name: Democratic
 roles:
@@ -14,13 +14,13 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '111'
 offices:
+- classification: district
+  address: 5787 S. Hampton Road Suite 447, Dallas, TX 75232
+  voice: 214-941-3895
 - classification: capitol-mail
   address: Room 4N.9, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0598
   fax: 512-463-2297
-- classification: district
-  address: 5787 S. Hampton Road Suite 447, Dallas, TX 75232
-  voice: 214-941-3895
 links:
 - url: https://house.texas.gov/members/member-page/?district=111
 other_identifiers:
@@ -32,3 +32,6 @@ other_identifiers:
   identifier: TXL000649
 sources:
 - url: https://house.texas.gov/members/member-page/?district=111
+- url: https://en.wikipedia.org/wiki/Yvonne_Davis
+- url: https://justfacts.votesmart.org/candidate/biography/5491/yvonne-davis
+- url: https://ballotpedia.org/Yvonne_Davis

@@ -5,7 +5,7 @@ family_name: Klick
 birth_date: '1956-08-19'
 gender: Female
 email: stephanie.klick@house.texas.gov
-image: https://house.texas.gov/members/photos/2460.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/47372.jpg
 party:
 - name: Republican
 roles:
@@ -14,13 +14,13 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '91'
 offices:
+- classification: district
+  address: 6851 NE Loop 820 Suite 230, North Richland, TX 76180
+  voice: 817-281-0079
 - classification: capitol-mail
   address: Room E2.504, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0599
   fax: 512-463-0751
-- classification: district
-  address: 6851 NE Loop 820 Suite 230, North Richland, TX 76180
-  voice: 817-281-0079
 links:
 - url: https://house.texas.gov/members/member-page/?district=91
 other_identifiers:
@@ -30,3 +30,7 @@ other_identifiers:
   identifier: TXL000624
 sources:
 - url: https://house.texas.gov/members/member-page/?district=91
+- url: https://en.wikipedia.org/wiki/Stephanie_Klick
+- url: https://justfacts.votesmart.org/candidate/biography/138369/stephanie-klick
+- url: https://www.linkedin.com/in/stephanie-klick-b9627a5
+- url: https://ballotpedia.org/Stephanie_Klick

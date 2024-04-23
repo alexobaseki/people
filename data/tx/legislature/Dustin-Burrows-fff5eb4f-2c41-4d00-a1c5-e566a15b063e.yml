@@ -5,7 +5,7 @@ family_name: Burrows
 birth_date: '1978-11-14'
 gender: Male
 email: dustin.burrows@house.texas.gov
-image: https://house.texas.gov/members/photos/3055.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/45151.jpg
 party:
 - name: Republican
 roles:
@@ -14,12 +14,12 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '83'
 offices:
-- classification: district
-  address: 10507 Quaker Ave. Suite 103, Lubbock, TX 79424
-  voice: 806-795-0635
 - classification: capitol-mail
   address: Room E2.610, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0542
+- classification: district
+  address: 10507 Quaker Ave. Suite 103, Lubbock, TX 79424
+  voice: 806-795-0635
 links:
 - url: https://house.texas.gov/members/member-page/?district=83
 other_identifiers:
@@ -29,3 +29,7 @@ other_identifiers:
   identifier: TXL000609
 sources:
 - url: https://house.texas.gov/members/member-page/?district=83
+- url: https://en.wikipedia.org/wiki/Dustin_Burrows
+- url: https://justfacts.votesmart.org/candidate/biography/155511/dustin-burrows
+- url: https://www.linkedin.com/in/dustin-burrows-16a29a4
+- url: https://ballotpedia.org/Dustin_Burrows

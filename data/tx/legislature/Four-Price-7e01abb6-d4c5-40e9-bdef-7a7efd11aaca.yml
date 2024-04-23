@@ -5,7 +5,7 @@ family_name: Price
 birth_date: '1967-10-08'
 gender: Male
 email: four.price@house.texas.gov
-image: https://house.texas.gov/members/photos/2185.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/23119.jpg
 party:
 - name: Republican
 roles:
@@ -14,6 +14,8 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '87'
 offices:
+- classification: district-mail
+  address: P.O. Box 2848, Amarillo, TX 79105
 - classification: capitol-mail
   address: Room 1N.9, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0470
@@ -21,8 +23,6 @@ offices:
   address: Amarillo National Bank 500 S. Taylor St., Plaza Two, Suite 506, Amarillo,
     TX 79101
   voice: 806-374-8787
-- classification: district-mail
-  address: P.O. Box 2848, Amarillo, TX 79105
 links:
 - url: https://house.texas.gov/members/member-page/?district=87
 other_identifiers:
@@ -32,3 +32,6 @@ other_identifiers:
   identifier: TXL000560
 sources:
 - url: https://house.texas.gov/members/member-page/?district=87
+- url: https://en.wikipedia.org/wiki/Four_Price
+- url: https://www.linkedin.com/in/four-price-90693611
+- url: https://ballotpedia.org/Four_Price

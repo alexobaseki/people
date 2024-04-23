@@ -5,7 +5,7 @@ family_name: Raney
 birth_date: '1947-04-04'
 gender: Male
 email: john.raney@house.texas.gov
-image: https://house.texas.gov/members/photos/2315.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/23046.jpg
 party:
 - name: Republican
 roles:
@@ -29,3 +29,7 @@ other_identifiers:
   identifier: TXL000653
 sources:
 - url: https://house.texas.gov/members/member-page/?district=14
+- url: https://en.wikipedia.org/wiki/John_N._Raney
+- url: https://justfacts.votesmart.org/candidate/biography/138322/john-raney
+- url: https://www.linkedin.com/in/john-raney-9b47aa9
+- url: https://ballotpedia.org/John_Raney

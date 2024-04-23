@@ -5,7 +5,7 @@ family_name: Johnson
 birth_date: '1971-09-27'
 gender: Male
 email: jarvis.johnson@house.texas.gov
-image: https://house.texas.gov/members/photos/3185.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/55068.jpg
 party:
 - name: Democratic
 roles:
@@ -14,14 +14,14 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '139'
 offices:
-- classification: capitol-mail
-  address: Room E2.904, P.O. Box 2910, Austin, TX 78768
-  voice: 512-463-0554
-  fax: 512-463-8380
 - classification: district
   address: 6112 Wheatley St., Houston, TX 77091
   voice: 713-699-3043
   fax: 713-699-3498
+- classification: capitol-mail
+  address: Room E2.904, P.O. Box 2910, Austin, TX 78768
+  voice: 512-463-0554
+  fax: 512-463-8380
 links:
 - url: https://house.texas.gov/members/member-page/?district=139
 other_names:
@@ -32,3 +32,6 @@ other_identifiers:
   identifier: TXL000672
 sources:
 - url: https://house.texas.gov/members/member-page/?district=139
+- url: https://en.wikipedia.org/wiki/Jarvis_Johnson
+- url: https://www.linkedin.com/in/jarvisjohnsonforcongress
+- url: https://ballotpedia.org/Jarvis_Johnson

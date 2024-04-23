@@ -5,7 +5,7 @@ family_name: Slawson
 birth_date: '1977-05-03'
 gender: Female
 email: shelby.slawson@house.texas.gov
-image: https://house.texas.gov/members/photos/4055.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/94513.jpg
 party:
 - name: Republican
 roles:
@@ -18,7 +18,14 @@ offices:
   address: Room E2.804, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0628
   fax: 512-463-3644
+- classification: district
+  address: Historical Hood County Court House 100 E. Pearl St., Room 305, Granbury,
+    TX 76048
 links:
 - url: https://house.texas.gov/members/member-page/?district=59
 sources:
 - url: https://house.texas.gov/members/member-page/?district=59
+- url: https://en.wikipedia.org/wiki/Shelby_Slawson
+- url: https://justfacts.votesmart.org/candidate/188402/shelby-slawson
+- url: https://www.linkedin.com/in/shelby-slawson
+- url: https://ballotpedia.org/Shelby_Slawson

@@ -5,7 +5,7 @@ family_name: Nichols
 birth_date: '1944-11-25'
 gender: Male
 email: robert.nichols@senate.texas.gov
-image: https://senate.texas.gov/members/d03/img/headshot.jpg
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/23180.jpg
 party:
 - name: Republican
 roles:
@@ -15,17 +15,9 @@ roles:
   district: '3'
 offices:
 - classification: district
-  address: 202 E. Pilar St. Suite 309, Nacogdoches, TX 75961
-  voice: 936-564-4252
-  fax: 936-564-4276
-- classification: district
   address: 329 Neches St., Jacksonville, TX 75766
   voice: 903-589-3003
   fax: 903-589-0203
-- classification: district
-  address: 2915 Atkinson Drive, Lufkin, TX 75901
-  voice: 936-699-4988
-  fax: 936-699-4991
 - classification: capitol-mail
   address: P.O. Box 12068 Capitol Station, Austin, TX 78711
   voice: 512-463-0103
@@ -33,6 +25,14 @@ offices:
   address: 769 S. Main St. Suite 100, Lumberton, TX 77657
   voice: 409-755-9893
   fax: 409-755-9899
+- classification: district
+  address: 2915 Atkinson Drive, Lufkin, TX 75901
+  voice: 936-699-4988
+  fax: 936-699-4991
+- classification: district
+  address: 202 E. Pilar St. Suite 309, Nacogdoches, TX 75961
+  voice: 936-564-4252
+  fax: 936-564-4276
 links:
 - url: https://senate.texas.gov/member.php?d=3
 other_identifiers:
@@ -42,3 +42,6 @@ other_identifiers:
   identifier: TXL000018
 sources:
 - url: https://senate.texas.gov/member.php?d=3
+- url: https://en.wikipedia.org/wiki/Robert_Nichols_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/59338/robert-nichols
+- url: https://ballotpedia.org/Robert_Nichols_(Texas)

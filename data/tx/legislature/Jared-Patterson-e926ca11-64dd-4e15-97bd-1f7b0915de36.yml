@@ -5,7 +5,7 @@ family_name: Patterson
 birth_date: '1983-04-01'
 gender: Male
 email: jared.patterson@house.texas.gov
-image: https://house.texas.gov/members/photos/3655.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/74761.jpg
 party:
 - name: Republican
 roles:
@@ -25,3 +25,6 @@ links:
 - url: https://house.texas.gov/members/member-page/?district=106
 sources:
 - url: https://house.texas.gov/members/member-page/?district=106
+- url: https://en.wikipedia.org/wiki/Jared_Patterson
+- url: https://www.linkedin.com/in/jaredpattersonconsulting
+- url: https://ballotpedia.org/Jared_Patterson

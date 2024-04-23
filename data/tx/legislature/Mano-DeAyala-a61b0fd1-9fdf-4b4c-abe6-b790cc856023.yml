@@ -4,7 +4,7 @@ given_name: Mano
 family_name: DeAyala
 gender: Male
 email: mano.deayala@house.texas.gov
-image: https://house.texas.gov/members/photos/4135.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/122519.jpg
 party:
 - name: Republican
 roles:
@@ -22,3 +22,5 @@ links:
 - url: https://house.texas.gov/members/member-page/?district=133
 sources:
 - url: https://house.texas.gov/members/member-page/?district=133
+- url: https://www.linkedin.com/in/mano-deayala-2b35448
+- url: https://ballotpedia.org/Mano_Deayala

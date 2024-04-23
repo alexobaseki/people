@@ -5,7 +5,7 @@ family_name: Kolkhorst
 birth_date: '1964-11-04'
 gender: Female
 email: lois.kolkhorst@senate.texas.gov
-image: https://senate.texas.gov/members/d18/img/LWK_2020.jpg
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/23045.jpg
 party:
 - name: Republican
 roles:
@@ -15,17 +15,17 @@ roles:
   district: '18'
 offices:
 - classification: district
-  address: 18230 Farm to Market Road 1488 Suite 314, Magnolia, TX 77354
-  voice: 281-259-8513
-- classification: district
   address: 22310 Grand Corner Drive Suite 120, Katy, TX 77494
   voice: 281-394-5610
 - classification: district
-  address: '5606 N. Navarro #300M, Victoria, TX 77904'
+  address: 311 E. Constitution St. Suite 120, Victoria, TX 77901
   voice: 361-573-7300
 - classification: capitol-mail
   address: P.O. Box 12068 Capitol Station, Austin, TX 78711
   voice: 512-463-0118
+- classification: district
+  address: 18230 Farm to Market Road 1488 Suite 314, Magnolia, TX 77354
+  voice: 281-259-8513
 - classification: district
   address: '2000 S. Market St. #101, Brenham, TX 77833'
   voice: 979-251-7888
@@ -44,3 +44,6 @@ other_identifiers:
   identifier: TXL000712
 sources:
 - url: https://senate.texas.gov/member.php?d=18
+- url: https://en.wikipedia.org/wiki/Lois_Kolkhorst
+- url: https://justfacts.votesmart.org/candidate/biography/49608/lois-kolkhorst
+- url: https://ballotpedia.org/Lois_Kolkhorst

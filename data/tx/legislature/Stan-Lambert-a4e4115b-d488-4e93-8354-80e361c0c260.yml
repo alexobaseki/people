@@ -5,7 +5,7 @@ family_name: Lambert
 birth_date: '1952-12-21'
 gender: Male
 email: stan.lambert@house.texas.gov
-image: https://house.texas.gov/members/photos/3225.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/61030.jpg
 party:
 - name: Republican
 roles:
@@ -28,3 +28,5 @@ other_identifiers:
   identifier: TXL000681
 sources:
 - url: https://house.texas.gov/members/member-page/?district=71
+- url: https://en.wikipedia.org/wiki/Stan_Lambert
+- url: https://ballotpedia.org/Stan_Lambert

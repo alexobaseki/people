@@ -4,7 +4,7 @@ given_name: Barbara
 family_name: Gervin-Hawkins
 gender: Female
 email: barbara.gervin-hawkins@house.texas.gov
-image: https://house.texas.gov/members/photos/3445.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/61037.jpg
 party:
 - name: Democratic
 roles:
@@ -26,3 +26,6 @@ other_identifiers:
   identifier: TXL000686
 sources:
 - url: https://house.texas.gov/members/member-page/?district=120
+- url: https://en.wikipedia.org/wiki/Barbara_Gervin-Hawkins
+- url: https://justfacts.votesmart.org/candidate/biography/166512/barbara-gervin-hawkins
+- url: https://ballotpedia.org/Barbara_Gervin-Hawkins

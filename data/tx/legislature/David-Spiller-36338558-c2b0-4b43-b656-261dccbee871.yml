@@ -5,7 +5,7 @@ family_name: Spiller
 birth_date: '1961-02-04'
 gender: Male
 email: david.spiller@house.texas.gov
-image: https://house.texas.gov/members/photos/4075.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/104058.jpg
 party:
 - name: Republican
 roles:
@@ -14,19 +14,22 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '68'
 offices:
-- classification: capitol-mail
-  address: Room E1.318, P.O. Box 2910, Austin, TX 78768
-  voice: 512-463-0526
-  fax: 512-463-1011
-- classification: district
-  address: 600 E. Depot St., Brownwood, TX 76801
 - classification: district
   address: P.O. Box 447, Jacksboro, TX 76458
 - classification: district
   address: 110 E. Pecan St., Gainesville, TX 76240
+- classification: district
+  address: 600 E. Depot St., Brownwood, TX 76801
+- classification: capitol-mail
+  address: Room E1.318, P.O. Box 2910, Austin, TX 78768
+  voice: 512-463-0526
+  fax: 512-463-1011
 - classification: district
   address: 501 E. 4th St., Lampasas, TX 76550
 links:
 - url: https://house.texas.gov/members/member-page/?district=68
 sources:
 - url: https://house.texas.gov/members/member-page/?district=68
+- url: https://en.wikipedia.org/wiki/David_Spiller_(politician)
+- url: https://www.linkedin.com/in/david-spiller-13382588
+- url: https://ballotpedia.org/David_Spiller

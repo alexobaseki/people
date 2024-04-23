@@ -5,7 +5,7 @@ family_name: Harless
 birth_date: '1962-07-13'
 gender: Male
 email: sam.harless@house.texas.gov
-image: https://house.texas.gov/members/photos/3775.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/74573.jpg
 party:
 - name: Republican
 roles:
@@ -25,3 +25,7 @@ links:
 - url: https://house.texas.gov/members/member-page/?district=126
 sources:
 - url: https://house.texas.gov/members/member-page/?district=126
+- url: https://en.wikipedia.org/wiki/Sam_Harless
+- url: https://justfacts.votesmart.org/candidate/biography/177548/sam-harless
+- url: https://www.linkedin.com/in/sam-harless-58a15599
+- url: https://ballotpedia.org/E._Sam_Harless

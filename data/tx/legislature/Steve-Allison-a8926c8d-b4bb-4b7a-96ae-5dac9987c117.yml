@@ -5,7 +5,7 @@ family_name: Allison
 birth_date: '1947-01-04'
 gender: Male
 email: steve.allison@house.texas.gov
-image: https://house.texas.gov/members/photos/3800.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/74551.jpg
 party:
 - name: Republican
 roles:
@@ -25,3 +25,6 @@ links:
 - url: https://house.texas.gov/members/member-page/?district=121
 sources:
 - url: https://house.texas.gov/members/member-page/?district=121
+- url: https://en.wikipedia.org/wiki/Steve_Allison
+- url: https://www.linkedin.com/in/steve-allison-39a8988
+- url: https://ballotpedia.org/Steve_Allison

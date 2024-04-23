@@ -5,7 +5,7 @@ family_name: Hull
 birth_date: '1986-08-21'
 gender: Female
 email: lacey.hull@house.texas.gov
-image: https://house.texas.gov/members/photos/3975.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/94916.jpg
 party:
 - name: Republican
 roles:
@@ -24,3 +24,6 @@ links:
 - url: https://house.texas.gov/members/member-page/?district=138
 sources:
 - url: https://house.texas.gov/members/member-page/?district=138
+- url: https://en.wikipedia.org/wiki/Lacey_Hull
+- url: https://justfacts.votesmart.org/candidate/biography/188434/lacey-hull
+- url: https://ballotpedia.org/Lacey_Hull

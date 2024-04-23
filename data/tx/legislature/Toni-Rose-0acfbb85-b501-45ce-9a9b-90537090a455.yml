@@ -5,7 +5,7 @@ family_name: Rose
 birth_date: '1968-02-03'
 gender: Female
 email: toni.rose@house.texas.gov
-image: https://house.texas.gov/members/photos/2555.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/47358.jpg
 party:
 - name: Democratic
 roles:
@@ -33,3 +33,7 @@ other_identifiers:
   identifier: TXL000642
 sources:
 - url: https://house.texas.gov/members/member-page/?district=110
+- url: https://en.wikipedia.org/wiki/Toni_Rose_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/137784/toni-rose
+- url: https://www.linkedin.com/in/toni-rose-3a80b99
+- url: https://ballotpedia.org/Toni_Rose

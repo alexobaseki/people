@@ -5,7 +5,7 @@ family_name: Blanco
 birth_date: '1976-04-23'
 gender: Male
 email: cesar.blanco@senate.texas.gov
-image: https://senate.texas.gov/members/d29/img/SCBBio88th-web.jpg
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/2401.jpg
 party:
 - name: Democratic
 roles:
@@ -20,11 +20,14 @@ roles:
   district: '76'
 offices:
 - classification: district
-  address: 416 N. Stanton St. Suite 700, El Paso, TX 79901
-  voice: 915-577-0029
+  address: Room 126, 1618 Airport Drive, Fort Stockton, TX 79735
+  voice: 432-336-2910
 - classification: capitol-mail
   address: Room GE.7, P.O. Box 12068 Capitol Station, Austin, TX 78711
   voice: 512-463-0129
+- classification: district
+  address: 416 N. Stanton St. Suite 700, El Paso, TX 79901
+  voice: 915-577-0029
 links:
 - url: https://house.texas.gov/members/member-page/?district=76
 - url: https://senate.texas.gov/member.php?d=29
@@ -40,4 +43,8 @@ other_identifiers:
   identifier: ocd-person/59d40546-dec7-4f69-813b-183d9925e6b7
 sources:
 - url: https://senate.texas.gov/member.php?d=29
+- url: https://en.wikipedia.org/wiki/Cesar_Blanco
+- url: https://justfacts.votesmart.org/candidate/biography/147274/cesar-blanco
+- url: https://www.linkedin.com/in/cesar-blanco-94a43a2b
+- url: https://ballotpedia.org/Cesar_Blanco
 - url: https://house.texas.gov/members/member-page/?district=76

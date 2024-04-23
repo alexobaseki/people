@@ -5,7 +5,7 @@ family_name: Guillen
 birth_date: '1977-10-27'
 gender: Male
 email: ryan.guillen@house.texas.gov
-image: https://house.texas.gov/members/photos/3045.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/23063.jpg
 party:
 - name: Republican
 roles:
@@ -33,3 +33,7 @@ other_identifiers:
   identifier: TXL000640
 sources:
 - url: https://house.texas.gov/members/member-page/?district=31
+- url: https://en.wikipedia.org/wiki/Ryan_Guillen
+- url: https://justfacts.votesmart.org/candidate/biography/49248/ryan-guillen
+- url: https://www.linkedin.com/in/ryan-guillen-1343659
+- url: https://ballotpedia.org/Ryan_Guillen

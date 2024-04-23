@@ -4,7 +4,7 @@ given_name: Maria Luisa
 family_name: Flores
 gender: Female
 email: lulu.flores@house.texas.gov
-image: https://house.texas.gov/members/photos/4150.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/125124.jpg
 party:
 - name: Democratic
 roles:
@@ -20,3 +20,6 @@ links:
 - url: https://house.texas.gov/members/member-page/?district=51
 sources:
 - url: https://house.texas.gov/members/member-page/?district=51
+- url: https://hendlerlaw.com/attorneys/maria-luisa-lulu-flores
+- url: https://www.linkedin.com/in/lulu-flores-350a02
+- url: https://ballotpedia.org/Lulu_Flores

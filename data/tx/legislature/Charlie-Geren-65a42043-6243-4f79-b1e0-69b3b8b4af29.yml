@@ -5,7 +5,7 @@ family_name: Geren
 birth_date: '1949-10-22'
 gender: Male
 email: charlie.geren@house.texas.gov
-image: https://house.texas.gov/members/photos/2945.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/23130.jpg
 party:
 - name: Republican
 roles:
@@ -33,3 +33,6 @@ other_identifiers:
   identifier: TXL000626
 sources:
 - url: https://house.texas.gov/members/member-page/?district=99
+- url: https://en.wikipedia.org/wiki/Charlie_Geren
+- url: https://justfacts.votesmart.org/candidate/biography/49376/charlie-geren
+- url: https://ballotpedia.org/Charlie_Geren

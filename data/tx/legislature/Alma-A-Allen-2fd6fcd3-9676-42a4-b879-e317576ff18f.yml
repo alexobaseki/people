@@ -5,7 +5,7 @@ family_name: Allen
 birth_date: '1939-04-07'
 gender: Female
 email: alma.allen@house.texas.gov
-image: https://house.texas.gov/members/photos/2100.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/23160.jpg
 party:
 - name: Democratic
 roles:
@@ -35,3 +35,6 @@ other_identifiers:
   identifier: TXL000613
 sources:
 - url: https://house.texas.gov/members/member-page/?district=131
+- url: https://en.wikipedia.org/wiki/Alma_Allen_(politician)
+- url: https://www.linkedin.com/in/alma-allen-b2b28864
+- url: https://ballotpedia.org/Alma_Allen

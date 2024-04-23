@@ -5,7 +5,7 @@ family_name: Paul
 birth_date: '1961-03-29'
 gender: Male
 email: dennis.paul@house.texas.gov
-image: https://house.texas.gov/members/photos/3090.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/47403.jpg
 party:
 - name: Republican
 roles:
@@ -30,3 +30,7 @@ other_identifiers:
   identifier: TXL000525
 sources:
 - url: https://house.texas.gov/members/member-page/?district=129
+- url: https://en.wikipedia.org/wiki/Dennis_Paul
+- url: https://justfacts.votesmart.org/candidate/biography/147704/dennis-paul
+- url: https://www.linkedin.com/in/dennis-paul-67860210
+- url: https://ballotpedia.org/Dennis_Paul

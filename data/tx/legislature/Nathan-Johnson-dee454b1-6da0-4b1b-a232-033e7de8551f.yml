@@ -5,7 +5,7 @@ family_name: Johnson
 birth_date: '1968-02-12'
 gender: Male
 email: nathan.johnson@senate.texas.gov
-image: https://senate.texas.gov/members/d16/img/SNJ-Headshot-2023-web.jpg
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/74759.jpg
 party:
 - name: Democratic
 roles:
@@ -14,14 +14,16 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '16'
 offices:
+- classification: capitol-mail
+  address: P.O. Box 12068 Capitol Station, Austin, TX 78711
+  voice: 512-463-0116
 - classification: district
   address: Merit Tower 12222 Merit Drive, Suite 1010, Dallas, TX 75251
   voice: 972-701-0349
   fax: 972-661-1512
-- classification: capitol-mail
-  address: P.O. Box 12068 Capitol Station, Austin, TX 78711
-  voice: 512-463-0116
 links:
 - url: https://senate.texas.gov/member.php?d=16
 sources:
 - url: https://senate.texas.gov/member.php?d=16
+- url: https://en.wikipedia.org/wiki/Nathan_M._Johnson
+- url: https://ballotpedia.org/Nathan_Johnson_(Texas)

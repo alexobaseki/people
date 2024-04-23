@@ -5,7 +5,7 @@ family_name: Reynolds
 birth_date: '1973-09-18'
 gender: Male
 email: ron.reynolds@house.texas.gov
-image: https://house.texas.gov/members/photos/2040.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/23059.jpg
 party:
 - name: Democratic
 roles:
@@ -31,3 +31,6 @@ other_identifiers:
   identifier: TXL000622
 sources:
 - url: https://house.texas.gov/members/member-page/?district=27
+- url: https://en.wikipedia.org/wiki/Ron_Reynolds_(Texas_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/102294/ron-reynolds
+- url: https://ballotpedia.org/Ron_Reynolds

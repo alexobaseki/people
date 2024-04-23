@@ -5,7 +5,7 @@ family_name: Talarico
 birth_date: '1989-05-17'
 gender: Male
 email: james.talarico@house.texas.gov
-image: https://house.texas.gov/members/photos/3685.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/72582.jpg
 party:
 - name: Democratic
 roles:
@@ -27,4 +27,6 @@ links:
 - url: https://house.texas.gov/members/member-page/?district=50
 sources:
 - url: https://house.texas.gov/members/member-page/?district=50
+- url: https://en.wikipedia.org/wiki/James_Talarico
+- url: https://ballotpedia.org/James_Talarico
 - url: https://house.texas.gov/members/member-page/?district=52

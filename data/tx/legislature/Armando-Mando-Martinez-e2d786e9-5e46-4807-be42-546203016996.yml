@@ -5,7 +5,7 @@ family_name: Martinez
 birth_date: '1976-01-06'
 gender: Male
 email: armando.martinez@house.texas.gov
-image: https://house.texas.gov/members/photos/3780.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/23071.jpg
 party:
 - name: Democratic
 roles:
@@ -37,3 +37,7 @@ other_identifiers:
   identifier: TXL000661
 sources:
 - url: https://house.texas.gov/members/member-page/?district=39
+- url: https://en.wikipedia.org/wiki/Armando_Martinez_(Texas)
+- url: https://justfacts.votesmart.org/candidate/biography/49304/armando-martinez
+- url: https://www.linkedin.com/in/armando-mando-martinez-ando-con-mando-3baa4211
+- url: https://ballotpedia.org/Armando_Martinez

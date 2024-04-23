@@ -5,7 +5,7 @@ family_name: VanDeaver
 birth_date: '1958-09-25'
 gender: Male
 email: gary.vandeaver@house.texas.gov
-image: https://house.texas.gov/members/photos/2540.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/47384.jpg
 party:
 - name: Republican
 roles:
@@ -30,3 +30,7 @@ other_identifiers:
   identifier: TXL000610
 sources:
 - url: https://house.texas.gov/members/member-page/?district=1
+- url: https://en.wikipedia.org/wiki/Gary_VanDeaver
+- url: https://justfacts.votesmart.org/candidate/biography/147586/gary-vandeaver
+- url: https://www.linkedin.com/in/gary-vandeaver-b01a9872
+- url: https://ballotpedia.org/Gary_VanDeaver

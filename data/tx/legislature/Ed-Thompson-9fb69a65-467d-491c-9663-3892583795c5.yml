@@ -5,7 +5,7 @@ family_name: Thompson
 birth_date: '1950-11-24'
 gender: Male
 email: ed.thompson@house.texas.gov
-image: https://house.texas.gov/members/photos/2815.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/47347.jpg
 party:
 - name: Republican
 roles:
@@ -14,13 +14,13 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '29'
 offices:
-- classification: district
-  address: 2341 N. Galveston Ave. Suite 120, Pearland, TX 77581
-  voice: 281-485-6565
 - classification: capitol-mail
   address: Room 4S.3, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0707
   fax: 512-463-8717
+- classification: district
+  address: 2341 N. Galveston Ave. Suite 120, Pearland, TX 77581
+  voice: 281-485-6565
 links:
 - url: https://house.texas.gov/members/member-page/?district=29
 other_names:
@@ -32,3 +32,6 @@ other_identifiers:
   identifier: TXL000595
 sources:
 - url: https://house.texas.gov/members/member-page/?district=29
+- url: https://en.wikipedia.org/wiki/Ed_Thompson_(Texas_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/131451/ed-thompson
+- url: https://ballotpedia.org/Ed_Thompson_(Texas)

@@ -5,7 +5,7 @@ family_name: Howard
 birth_date: '1951-10-25'
 gender: Female
 email: donna.howard@house.texas.gov
-image: https://house.texas.gov/members/photos/3310.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/23080.jpg
 party:
 - name: Democratic
 roles:
@@ -33,3 +33,7 @@ other_identifiers:
   identifier: TXL000541
 sources:
 - url: https://house.texas.gov/members/member-page/?district=48
+- url: https://en.wikipedia.org/wiki/Donna_Howard
+- url: https://justfacts.votesmart.org/candidate/biography/59196/donna-howard
+- url: https://www.linkedin.com/in/donna-howard-0200b65
+- url: https://ballotpedia.org/Donna_Howard

@@ -5,7 +5,7 @@ family_name: Thompson
 birth_date: '1939-01-01'
 gender: Female
 email: senfronia.thompson@house.texas.gov
-image: https://house.texas.gov/members/photos/4630.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/23169.jpg
 party:
 - name: Democratic
 roles:
@@ -34,3 +34,6 @@ other_identifiers:
   identifier: TXL000531
 sources:
 - url: https://house.texas.gov/members/member-page/?district=141
+- url: https://en.wikipedia.org/wiki/Senfronia_Thompson
+- url: https://justfacts.votesmart.org/candidate/biography/8012/senfronia-thompson
+- url: https://ballotpedia.org/Senfronia_Thompson

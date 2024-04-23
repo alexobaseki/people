@@ -4,7 +4,7 @@ given_name: Benjamin
 family_name: Bumgarner
 gender: Male
 email: ben.bumgarner@house.texas.gov
-image: https://house.texas.gov/members/photos/4125.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/125126.jpg
 party:
 - name: Republican
 roles:
@@ -25,3 +25,5 @@ other_names:
 - name: Benjamin Bumgarner
 sources:
 - url: https://house.texas.gov/members/member-page/?district=63
+- url: https://www.linkedin.com/in/benjamin-bumgarner-a19308135
+- url: https://ballotpedia.org/Ben_Bumgarner

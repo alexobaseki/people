@@ -4,7 +4,7 @@ given_name: James Gregory
 family_name: Bonnen
 gender: Male
 email: greg.bonnen@house.texas.gov
-image: https://house.texas.gov/members/photos/2875.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/47357.jpg
 party:
 - name: Republican
 roles:
@@ -28,3 +28,6 @@ other_identifiers:
   identifier: TXL000632
 sources:
 - url: https://house.texas.gov/members/member-page/?district=24
+- url: https://en.wikipedia.org/wiki/Greg_Bonnen
+- url: https://justfacts.votesmart.org/candidate/biography/138328/greg-bonnen
+- url: https://ballotpedia.org/Greg_Bonnen

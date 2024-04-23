@@ -5,7 +5,7 @@ family_name: Alvarado
 birth_date: '1967-10-26'
 gender: Female
 email: carol.alvarado@senate.texas.gov
-image: https://senate.texas.gov/members/d06/img/CA-2018_web.jpg
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/23172.jpg
 party:
 - name: Democratic
 roles:
@@ -18,12 +18,12 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '145'
 offices:
-- classification: district
-  address: 4450 Harrisburg Suite 436, Houston, TX 77011
-  voice: 713-926-6257
 - classification: capitol-mail
   address: P.O. Box 12068 Capitol Station, Austin, TX 78711
   voice: 512-463-0106
+- classification: district
+  address: 4450 Harrisburg Suite 436, Houston, TX 77011
+  voice: 713-926-6257
 links:
 - url: https://senate.texas.gov/member.php?d=6
 other_identifiers:
@@ -35,3 +35,6 @@ other_identifiers:
   identifier: TXL000644
 sources:
 - url: https://senate.texas.gov/member.php?d=6
+- url: https://en.wikipedia.org/wiki/Carol_Alvarado
+- url: https://justfacts.votesmart.org/candidate/biography/49524/carol-alvarado
+- url: https://ballotpedia.org/Carol_Alvarado

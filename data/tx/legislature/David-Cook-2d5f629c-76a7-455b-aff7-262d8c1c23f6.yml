@@ -5,7 +5,7 @@ family_name: Cook
 birth_date: '1971-07-05'
 gender: Male
 email: david.cook@house.texas.gov
-image: https://house.texas.gov/members/photos/3960.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/94549.jpg
 party:
 - name: Republican
 roles:
@@ -14,14 +14,17 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '96'
 offices:
+- classification: district
+  address: 309 E. Broad St., Mansfield, TX 76063
+  voice: 817-473-1960
 - classification: capitol-mail
   address: Room E1.402, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0374
   fax: 512-463-0364
-- classification: district
-  address: 309 E. Broad St., Mansfield, TX 76063
-  voice: 817-473-1960
 links:
 - url: https://house.texas.gov/members/member-page/?district=96
 sources:
 - url: https://house.texas.gov/members/member-page/?district=96
+- url: https://en.wikipedia.org/wiki/David_Cook_(Texas_politician)
+- url: https://www.linkedin.com/in/davidcook16
+- url: https://ballotpedia.org/David_Cook_(Texas_House_of_Representatives_candidate)

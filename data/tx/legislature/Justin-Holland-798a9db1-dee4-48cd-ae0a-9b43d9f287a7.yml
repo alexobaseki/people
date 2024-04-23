@@ -5,7 +5,7 @@ family_name: Holland
 birth_date: '1984-03-15'
 gender: Male
 email: justin.holland@house.texas.gov
-image: https://house.texas.gov/members/photos/3205.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/61026.jpg
 party:
 - name: Republican
 roles:
@@ -28,3 +28,6 @@ other_identifiers:
   identifier: TXL000690
 sources:
 - url: https://house.texas.gov/members/member-page/?district=33
+- url: https://en.wikipedia.org/wiki/Justin_Holland_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/166539/justin-holland
+- url: https://ballotpedia.org/Justin_Holland

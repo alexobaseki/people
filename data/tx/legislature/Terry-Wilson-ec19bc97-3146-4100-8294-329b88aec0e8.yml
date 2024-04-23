@@ -5,7 +5,7 @@ family_name: Wilson
 birth_date: '1964-08-28'
 gender: Male
 email: terry.wilson@house.texas.gov
-image: https://house.texas.gov/members/photos/3525.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/61040.jpg
 party:
 - name: Republican
 roles:
@@ -29,3 +29,7 @@ other_identifiers:
   identifier: TXL000678
 sources:
 - url: https://house.texas.gov/members/member-page/?district=20
+- url: https://en.wikipedia.org/wiki/Terry_Wilson_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/166699/terry-wilson
+- url: https://www.linkedin.com/in/terry-wilson-85826a62
+- url: https://ballotpedia.org/Terry_Wilson_(Texas)

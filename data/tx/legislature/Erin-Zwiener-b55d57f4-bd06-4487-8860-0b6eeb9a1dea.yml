@@ -5,7 +5,7 @@ family_name: Zwiener
 birth_date: '1985-09-22'
 gender: Female
 email: erin.zwiener@house.texas.gov
-image: https://house.texas.gov/members/photos/3710.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/74802.jpg
 party:
 - name: Democratic
 roles:
@@ -22,3 +22,7 @@ links:
 - url: https://house.texas.gov/members/member-page/?district=45
 sources:
 - url: https://house.texas.gov/members/member-page/?district=45
+- url: https://en.wikipedia.org/wiki/Erin_Zwiener
+- url: https://justfacts.votesmart.org/candidate/biography/177439/erin-zwiener
+- url: https://www.linkedin.com/in/erin-z-3a729414
+- url: https://ballotpedia.org/Erin_Zwiener

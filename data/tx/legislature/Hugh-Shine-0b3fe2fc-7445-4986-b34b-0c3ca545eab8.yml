@@ -5,7 +5,7 @@ family_name: Shine
 birth_date: '1952-07-27'
 gender: Male
 email: hugh.shine@house.texas.gov
-image: https://house.texas.gov/members/photos/4455.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/61046.jpg
 party:
 - name: Republican
 roles:
@@ -14,13 +14,13 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '55'
 offices:
+- classification: district
+  address: 101 E. Central Ave., Suite 122, Belton, TX 76513
+  voice: 254-831-2298
 - classification: capitol-mail
   address: Room GS.2, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0630
   fax: 512-463-0937
-- classification: district
-  address: 101 E. Central Ave., Suite 122, Belton, TX 76513
-  voice: 254-831-2298
 links:
 - url: https://house.texas.gov/members/member-page/?district=55
 other_identifiers:
@@ -28,3 +28,6 @@ other_identifiers:
   identifier: TXL000685
 sources:
 - url: https://house.texas.gov/members/member-page/?district=55
+- url: https://en.wikipedia.org/wiki/Hugh_Shine
+- url: https://justfacts.votesmart.org/candidate/biography/166553/hugh-shine
+- url: https://ballotpedia.org/Hugh_Shine

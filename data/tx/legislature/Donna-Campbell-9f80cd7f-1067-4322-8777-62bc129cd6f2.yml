@@ -5,7 +5,7 @@ family_name: Campbell
 birth_date: '1954-09-09'
 gender: Female
 email: donna.campbell@senate.texas.gov
-image: https://senate.texas.gov/members/d25/img/headshot.jpg
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/44571.jpg
 party:
 - name: Republican
 roles:
@@ -28,3 +28,7 @@ other_identifiers:
   identifier: TXL000419
 sources:
 - url: https://senate.texas.gov/member.php?d=25
+- url: https://en.wikipedia.org/wiki/Donna_Campbell
+- url: https://justfacts.votesmart.org/candidate/biography/116916/donna-campbell
+- url: https://www.linkedin.com/in/donna-campbell-05ba0315
+- url: https://ballotpedia.org/Donna_Campbell

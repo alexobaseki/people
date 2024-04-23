@@ -5,7 +5,7 @@ family_name: Hunter
 birth_date: '1953-08-26'
 gender: Male
 email: todd.hunter@house.texas.gov
-image: https://house.texas.gov/members/photos/3365.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/23064.jpg
 party:
 - name: Republican
 roles:
@@ -14,14 +14,14 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '32'
 offices:
-- classification: capitol-mail
-  address: Room 1W.5, P.O. Box 2910, Austin, TX 78768
-  voice: 512-463-0672
-  fax: 512-463-2101
 - classification: district
   address: 15217 S. Padre Island Drive Suite 201, Corpus Christi, TX 78418
   voice: 361-949-4603
   fax: 361-949-4634
+- classification: capitol-mail
+  address: Room 1W.5, P.O. Box 2910, Austin, TX 78768
+  voice: 512-463-0672
+  fax: 512-463-2101
 links:
 - url: https://house.texas.gov/members/member-page/?district=32
 other_identifiers:
@@ -33,3 +33,7 @@ other_identifiers:
   identifier: TXL000658
 sources:
 - url: https://house.texas.gov/members/member-page/?district=32
+- url: https://en.wikipedia.org/wiki/Todd_Ames_Hunter
+- url: https://justfacts.votesmart.org/candidate/biography/5532/todd-hunter
+- url: https://www.linkedin.com/in/todd-hunter-556aa98
+- url: https://ballotpedia.org/Todd_Hunter

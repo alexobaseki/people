@@ -5,7 +5,7 @@ family_name: Capriglione
 birth_date: '1973-03-08'
 gender: Male
 email: giovanni.capriglione@house.texas.gov
-image: https://house.texas.gov/members/photos/2345.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/47366.jpg
 party:
 - name: Republican
 roles:
@@ -31,3 +31,7 @@ other_identifiers:
 sources:
 - url: https://legdir.capitol.texas.gov/MemberInfo.aspx?Chamber=H&Code=A2345
 - url: https://house.texas.gov/members/member-page/?district=98
+- url: https://en.wikipedia.org/wiki/Giovanni_Capriglione
+- url: https://justfacts.votesmart.org/candidate/biography/117464/giovanni-capriglione
+- url: https://www.linkedin.com/in/votegiovanni
+- url: https://ballotpedia.org/Giovanni_Capriglione

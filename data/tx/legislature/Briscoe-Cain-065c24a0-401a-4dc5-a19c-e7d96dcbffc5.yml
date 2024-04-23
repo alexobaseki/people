@@ -5,7 +5,7 @@ family_name: Cain
 birth_date: '1984-12-09'
 gender: Male
 email: briscoe.cain@house.texas.gov
-image: https://house.texas.gov/members/photos/3265.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/61033.jpg
 party:
 - name: Republican
 roles:
@@ -14,11 +14,11 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '128'
 offices:
+- classification: district
+  address: 120 E. 8th St., Suite 23, Deer Park, TX 77536
 - classification: capitol-mail
   address: Room E2.706, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0733
-- classification: district
-  address: 120 E. 8th St., Suite 23, Deer Park, TX 77536
 links:
 - url: https://house.texas.gov/members/member-page/?district=128
 other_identifiers:
@@ -26,3 +26,7 @@ other_identifiers:
   identifier: TXL000696
 sources:
 - url: https://house.texas.gov/members/member-page/?district=128
+- url: https://en.wikipedia.org/wiki/Briscoe_Cain
+- url: https://justfacts.votesmart.org/candidate/biography/147702/briscoe-cain
+- url: https://www.linkedin.com/in/briscoecain
+- url: https://ballotpedia.org/Briscoe_Cain

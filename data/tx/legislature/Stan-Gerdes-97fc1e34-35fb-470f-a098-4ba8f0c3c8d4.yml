@@ -4,7 +4,7 @@ given_name: Stan
 family_name: Gerdes
 gender: Male
 email: stan.gerdes@house.texas.gov
-image: https://house.texas.gov/members/photos/4195.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/124801.jpg
 party:
 - name: Republican
 roles:
@@ -23,3 +23,6 @@ links:
 - url: https://house.texas.gov/members/member-page/?district=17
 sources:
 - url: https://house.texas.gov/members/member-page/?district=17
+- url: https://en.wikipedia.org/wiki/Stan_Gerdes
+- url: https://www.linkedin.com/in/stangerdes
+- url: https://ballotpedia.org/Stan_Gerdes

@@ -5,7 +5,7 @@ family_name: West
 birth_date: '1952-09-26'
 gender: Male
 email: royce.west@senate.texas.gov
-image: https://senate.texas.gov/members/d23/img/West_86-0535D-073_web.jpg
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/23198.jpg
 party:
 - name: Democratic
 roles:
@@ -31,3 +31,7 @@ other_identifiers:
   identifier: TXL000028
 sources:
 - url: https://senate.texas.gov/member.php?d=23
+- url: https://en.wikipedia.org/wiki/Royce_West
+- url: https://justfacts.votesmart.org/candidate/biography/5463/royce-west
+- url: https://www.linkedin.com/in/royce-west-b9648344
+- url: https://ballotpedia.org/Royce_West

@@ -5,7 +5,7 @@ family_name: Collier
 birth_date: '1972-09-12'
 gender: Female
 email: nicole.collier@house.texas.gov
-image: https://house.texas.gov/members/photos/2360.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/45155.jpg
 party:
 - name: Democratic
 roles:
@@ -14,13 +14,13 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '95'
 offices:
+- classification: district
+  address: 101. S. Jennings Suite 103A, Fort Worth, TX 76104
+  voice: 817-332-1180
 - classification: capitol-mail
   address: Room 4S.6, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0716
   fax: 512-463-1516
-- classification: district
-  address: 101. S. Jennings Suite 103A, Fort Worth, TX 76104
-  voice: 817-332-1180
 links:
 - url: https://legdir.capitol.texas.gov/MemberInfo.aspx?Chamber=H&Code=A2360
 - url: https://house.texas.gov/members/member-page/?district=95
@@ -32,3 +32,7 @@ other_identifiers:
 sources:
 - url: https://legdir.capitol.texas.gov/MemberInfo.aspx?Chamber=H&Code=A2360
 - url: https://house.texas.gov/members/member-page/?district=95
+- url: https://en.wikipedia.org/wiki/Nicole_Collier
+- url: https://justfacts.votesmart.org/candidate/biography/137771/nicole-collier
+- url: https://www.linkedin.com/in/nicole-collier-0289a52
+- url: https://ballotpedia.org/Nicole_Collier

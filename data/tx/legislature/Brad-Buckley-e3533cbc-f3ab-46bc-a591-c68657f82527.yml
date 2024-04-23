@@ -5,7 +5,7 @@ family_name: Buckley
 birth_date: '1966-09-14'
 gender: Male
 email: brad.buckley@house.texas.gov
-image: https://house.texas.gov/members/photos/3585.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/74565.jpg
 party:
 - name: Republican
 roles:
@@ -14,12 +14,12 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '54'
 offices:
-- classification: district
-  address: 1301 N. Stagecoach Road, Salado, TX 76571
-  voice: 254-947-5026
 - classification: capitol-mail
   address: Room E1.324, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0684
+- classification: district
+  address: 1301 N. Stagecoach Road, Salado, TX 76571
+  voice: 254-947-5026
 - classification: district
   address: 501 E. 4th St. Suite 301, Lampasas, TX 76550
   voice: 512-556-5934
@@ -27,3 +27,6 @@ links:
 - url: https://house.texas.gov/members/member-page/?district=54
 sources:
 - url: https://house.texas.gov/members/member-page/?district=54
+- url: https://en.wikipedia.org/wiki/Brad_Buckley_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/177456/brad-buckley
+- url: https://ballotpedia.org/Brad_Buckley

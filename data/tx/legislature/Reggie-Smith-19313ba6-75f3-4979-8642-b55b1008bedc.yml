@@ -5,7 +5,7 @@ family_name: Smith
 birth_date: '1969-02-04'
 gender: Male
 email: reggie.smith@house.texas.gov
-image: https://house.texas.gov/members/photos/3765.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/72583.jpg
 party:
 - name: Republican
 roles:
@@ -14,13 +14,16 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '62'
 offices:
-- classification: capitol-mail
-  address: Room E1.314, P.O. Box 2910, Austin, TX 78768
-  voice: 512-463-0297
 - classification: district
   address: 300 N. Travis St. Suite 3, Sherman, TX 75090
   voice: 903-891-7297
+- classification: capitol-mail
+  address: Room E1.314, P.O. Box 2910, Austin, TX 78768
+  voice: 512-463-0297
 links:
 - url: https://house.texas.gov/members/member-page/?district=62
 sources:
 - url: https://house.texas.gov/members/member-page/?district=62
+- url: https://en.wikipedia.org/wiki/Reggie_Smith_(Texas_politician)
+- url: https://www.linkedin.com/in/reggie-smith-a411bb31
+- url: https://ballotpedia.org/Reggie_Smith

@@ -5,7 +5,7 @@ family_name: Vo
 birth_date: '1956-05-30'
 gender: Male
 email: hubert.vo@house.texas.gov
-image: https://house.texas.gov/members/photos/4900.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/23176.jpg
 party:
 - name: Democratic
 roles:
@@ -32,3 +32,6 @@ other_identifiers:
   identifier: TXL000631
 sources:
 - url: https://house.texas.gov/members/member-page/?district=149
+- url: https://en.wikipedia.org/wiki/Hubert_Vo
+- url: https://justfacts.votesmart.org/candidate/biography/49576/hubert-vo
+- url: https://ballotpedia.org/Hubert_Vo

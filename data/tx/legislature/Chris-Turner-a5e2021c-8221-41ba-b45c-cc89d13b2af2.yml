@@ -5,7 +5,7 @@ family_name: Turner
 birth_date: '1972-10-10'
 gender: Male
 email: chris.turner@house.texas.gov
-image: https://house.texas.gov/members/photos/4680.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/1764.jpg
 party:
 - name: Democratic
 roles:
@@ -36,3 +36,7 @@ other_identifiers:
   identifier: TXL000625
 sources:
 - url: https://house.texas.gov/members/member-page/?district=101
+- url: https://en.wikipedia.org/wiki/Chris_Turner_(Texas_politician)
+- url: https://justfacts.votesmart.org/candidate/102270/chris-turner
+- url: https://www.linkedin.com/in/chrisgturner
+- url: https://ballotpedia.org/Chris_Turner_(Texas)

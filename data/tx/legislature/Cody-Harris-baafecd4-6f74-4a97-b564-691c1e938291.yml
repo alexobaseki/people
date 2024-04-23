@@ -5,7 +5,7 @@ family_name: Harris
 birth_date: '1983-08-16'
 gender: Male
 email: cody.harris@house.texas.gov
-image: https://house.texas.gov/members/photos/3580.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/74757.jpg
 party:
 - name: Republican
 roles:
@@ -26,3 +26,7 @@ other_names:
 - name: Harris, Cody
 sources:
 - url: https://house.texas.gov/members/member-page/?district=8
+- url: https://en.wikipedia.org/wiki/Cody_Harris_(politician)
+- url: https://justfacts.votesmart.org/candidate/biography/177384/cody-harris
+- url: https://www.linkedin.com/in/codyharristx
+- url: https://ballotpedia.org/Cody_Harris

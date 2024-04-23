@@ -5,7 +5,7 @@ family_name: Hernandez
 birth_date: '1978-08-25'
 gender: Female
 email: ana.hernandez@house.texas.gov
-image: https://house.texas.gov/members/photos/3155.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/45157.jpg
 party:
 - name: Democratic
 roles:
@@ -14,14 +14,14 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '143'
 offices:
-- classification: capitol-mail
-  address: Room 1W.11, P.O. Box 2910, Austin, TX 78768
-  voice: 512-463-0614
-  fax: 512-463-0612
 - classification: district
   address: 1233 Mercury Drive, Houston, TX 77029
   voice: 713-675-8596
   fax: 713-675-8599
+- classification: capitol-mail
+  address: Room 1W.11, P.O. Box 2910, Austin, TX 78768
+  voice: 512-463-0614
+  fax: 512-463-0612
 links:
 - url: https://house.texas.gov/members/member-page/?district=143
 other_identifiers:
@@ -39,3 +39,6 @@ other_identifiers:
   identifier: TXL000564
 sources:
 - url: https://house.texas.gov/members/member-page/?district=143
+- url: https://en.wikipedia.org/wiki/Ana_Hernandez
+- url: https://justfacts.votesmart.org/candidate/biography/59301/ana-hernandez
+- url: https://ballotpedia.org/Ana_Hernandez_Luna

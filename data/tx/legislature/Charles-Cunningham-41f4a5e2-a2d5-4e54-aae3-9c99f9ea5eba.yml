@@ -4,7 +4,7 @@ given_name: Charles
 family_name: Cunningham
 gender: Male
 email: charles.cunningham@house.texas.gov
-image: https://house.texas.gov/members/photos/4130.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/125074.jpg
 party:
 - name: Republican
 roles:
@@ -17,8 +17,10 @@ offices:
   address: Room E2.402, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0520
 - classification: district
-  address: 7702 Farm to Market Road 1960 East Suite 370B, Humble, TX 77346
+  address: 110 W. Main St., Humble, TX 77338
 links:
 - url: https://house.texas.gov/members/member-page/?district=127
 sources:
 - url: https://house.texas.gov/members/member-page/?district=127
+- url: https://www.linkedin.com/in/charles-c-a4319062
+- url: https://ballotpedia.org/Charles_Cunningham

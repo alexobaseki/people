@@ -5,7 +5,7 @@ family_name: Landgraf
 birth_date: '1981-03-15'
 gender: Male
 email: brooks.landgraf@house.texas.gov
-image: https://house.texas.gov/members/photos/3040.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/29289.jpg
 party:
 - name: Republican
 roles:
@@ -29,3 +29,6 @@ other_identifiers:
   identifier: TXL000566
 sources:
 - url: https://house.texas.gov/members/member-page/?district=81
+- url: https://en.wikipedia.org/wiki/Brooks_Landgraf
+- url: https://www.linkedin.com/in/brooks-landgraf-3600012
+- url: https://ballotpedia.org/Brooks_Landgraf

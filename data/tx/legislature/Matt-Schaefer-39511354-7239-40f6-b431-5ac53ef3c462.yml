@@ -4,8 +4,8 @@ given_name: Matthew Ray
 family_name: Schaefer
 birth_date: '1976-02-11'
 gender: Male
-email: mattfortexas@gmail.com
-image: https://house.texas.gov/members/photos/2725.jpg?v=88.25
+email: matthew.schaefer@house.texas.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/44564.jpg
 party:
 - name: Republican
 roles:
@@ -14,12 +14,12 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '6'
 offices:
-- classification: capitol-mail
-  address: Room GN.8, P.O. Box 2910, Austin, TX 78768
-  voice: 512-463-0584
 - classification: district
   address: 200 E. Ferguson St., Suite 435, Tyler, TX 75702
   voice: 903-592-0900
+- classification: capitol-mail
+  address: Room GN.8, P.O. Box 2910, Austin, TX 78768
+  voice: 512-463-0584
 links:
 - url: https://house.texas.gov/members/member-page/?district=6
 other_identifiers:
@@ -29,3 +29,5 @@ other_identifiers:
   identifier: TXL000587
 sources:
 - url: https://house.texas.gov/members/member-page/?district=6
+- url: https://en.wikipedia.org/wiki/Matt_Schaefer
+- url: https://ballotpedia.org/Matt_Schaefer

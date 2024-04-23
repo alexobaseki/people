@@ -5,7 +5,7 @@ family_name: Ashby
 birth_date: '1972-10-09'
 gender: Male
 email: trent.ashby@house.texas.gov
-image: https://house.texas.gov/members/photos/2330.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/44561.jpg
 party:
 - name: Republican
 roles:
@@ -35,4 +35,7 @@ other_identifiers:
   identifier: TXL000634
 sources:
 - url: https://house.texas.gov/members/member-page/?district=09
+- url: https://en.wikipedia.org/wiki/Trent_Ashby
+- url: https://www.linkedin.com/in/trent-ashby-2b30054
+- url: https://ballotpedia.org/Trent_Ashby
 - url: https://house.texas.gov/members/member-page/?district=57

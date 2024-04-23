@@ -5,7 +5,7 @@ family_name: Romero
 birth_date: '1975-07-15'
 gender: Male
 email: ramon.romero@house.texas.gov
-image: https://house.texas.gov/members/photos/3060.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/47380.jpg
 party:
 - name: Democratic
 roles:
@@ -14,14 +14,14 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '90'
 offices:
-- classification: district
-  address: 3663 Airport Freeway Suite 102, Fort Worth, TX 76111
-  voice: 817-924-6788
-  fax: 817-924-1997
 - classification: capitol-mail
   address: Room GN.9, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0740
   fax: 512-463-1075
+- classification: district
+  address: 3663 Airport Freeway Suite 102, Fort Worth, TX 76111
+  voice: 817-924-6788
+  fax: 817-924-1997
 links:
 - url: https://house.texas.gov/members/member-page/?district=90
 other_names:
@@ -36,3 +36,7 @@ other_identifiers:
   identifier: TXL000656
 sources:
 - url: https://house.texas.gov/members/member-page/?district=90
+- url: https://en.wikipedia.org/wiki/Ramon_Romero_Jr.
+- url: https://justfacts.votesmart.org/candidate/biography/147669/ramon-romero-jr
+- url: https://www.linkedin.com/in/ramon-romero-jr-6109b912
+- url: https://ballotpedia.org/Ramon_Romero,_Jr.

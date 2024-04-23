@@ -5,7 +5,7 @@ family_name: Anchia
 birth_date: '1968-09-26'
 gender: Male
 email: rafael.anchia@house.texas.gov
-image: https://house.texas.gov/members/photos/2150.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/23134.jpg
 party:
 - name: Democratic
 roles:
@@ -24,7 +24,7 @@ links:
 - url: https://house.texas.gov/members/member-page/?district=103
 other_names:
 - name: Rafael Anchia
-- name: Anchía
+- name: "Anch\xEDa"
 other_identifiers:
 - scheme: legacy_openstates
   identifier: TXL000217
@@ -34,3 +34,7 @@ other_identifiers:
   identifier: TXL000660
 sources:
 - url: https://house.texas.gov/members/member-page/?district=103
+- url: https://en.wikipedia.org/wiki/Rafael_Anchia
+- url: https://justfacts.votesmart.org/candidate/biography/49874/rafael-anchia
+- url: https://www.linkedin.com/in/rafael-anchia-426a114
+- url: https://ballotpedia.org/Rafael_Anchia

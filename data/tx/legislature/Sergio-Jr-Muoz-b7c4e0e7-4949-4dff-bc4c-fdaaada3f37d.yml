@@ -5,7 +5,7 @@ family_name: Munoz
 birth_date: '1982-03-05'
 gender: Male
 email: sergio.munoz@house.texas.gov
-image: https://house.texas.gov/members/photos/2060.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/23068.jpg
 party:
 - name: Democratic
 roles:
@@ -37,3 +37,6 @@ other_identifiers:
   identifier: TXL000552
 sources:
 - url: https://house.texas.gov/members/member-page/?district=36
+- url: https://en.wikipedia.org/wiki/Sergio_Mu%C3%B1oz_(politician)
+- url: https://justfacts.votesmart.org/candidate/5424/sergio-munoz-jr
+- url: https://ballotpedia.org/Sergio_Munoz_Jr.

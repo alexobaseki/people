@@ -4,7 +4,7 @@ given_name: Christian
 family_name: Manuel Hayes
 gender: Male
 email: christian.manuel@house.texas.gov
-image: https://house.texas.gov/members/photos/4255.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/125123.jpg
 party:
 - name: Democratic
 roles:
@@ -13,13 +13,15 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '22'
 offices:
-- classification: capitol-mail
-  address: Room E2.320, P.O. Box 2910, Austin, TX 78768
-  voice: 512-463-0662
 - classification: district
   address: 2300 Farm to Market 365 Suite 360, Nederland, TX 77627
   voice: 409-237-5190
+- classification: capitol-mail
+  address: Room E2.320, P.O. Box 2910, Austin, TX 78768
+  voice: 512-463-0662
 links:
 - url: https://house.texas.gov/members/member-page/?district=22
 sources:
 - url: https://house.texas.gov/members/member-page/?district=22
+- url: https://en.wikipedia.org/wiki/Christian_Manuel
+- url: https://ballotpedia.org/Christian_Hayes

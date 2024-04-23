@@ -5,7 +5,7 @@ family_name: Goldman
 birth_date: '1968-10-03'
 gender: Male
 email: craig.goldman@house.texas.gov
-image: https://house.texas.gov/members/photos/2395.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/47346.jpg
 party:
 - name: Republican
 roles:
@@ -14,12 +14,12 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '97'
 offices:
-- classification: district
-  address: 4521 S. Hulen St. Suite 208, Fort Worth, TX 76109
-  voice: 817-920-5912
 - classification: capitol-mail
   address: Room E2.510, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0608
+- classification: district
+  address: 4521 S. Hulen St. Suite 208, Fort Worth, TX 76109
+  voice: 817-920-5912
 links:
 - url: https://house.texas.gov/members/member-page/?district=97
 other_identifiers:
@@ -29,3 +29,7 @@ other_identifiers:
   identifier: TXL000530
 sources:
 - url: https://house.texas.gov/members/member-page/?district=97
+- url: https://en.wikipedia.org/wiki/Craig_Goldman
+- url: https://justfacts.votesmart.org/candidate/biography/138373/craig-goldman
+- url: https://www.linkedin.com/in/craig-goldman-103708
+- url: https://ballotpedia.org/Craig_Goldman

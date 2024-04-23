@@ -5,7 +5,7 @@ family_name: Kacal
 birth_date: '1969-12-26'
 gender: Male
 email: kyle.kacal@house.texas.gov
-image: https://house.texas.gov/members/photos/2445.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/47371.jpg
 party:
 - name: Republican
 roles:
@@ -14,12 +14,12 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '12'
 offices:
-- classification: capitol-mail
-  address: Room GS.6, P.O. Box 2910, Austin, TX 78768
-  voice: 512-463-0412
 - classification: district
   address: 3000 Briarcrest Drive Suite 203, Bryan, TX 77802
   voice: 979-774-7276
+- classification: capitol-mail
+  address: Room GS.6, P.O. Box 2910, Austin, TX 78768
+  voice: 512-463-0412
 links:
 - url: https://house.texas.gov/members/member-page/?district=12
 other_names:
@@ -31,3 +31,6 @@ other_identifiers:
   identifier: TXL000606
 sources:
 - url: https://house.texas.gov/members/member-page/?district=12
+- url: https://en.wikipedia.org/wiki/Kyle_Kacal
+- url: https://justfacts.votesmart.org/candidate/biography/138318/kyle-kacal
+- url: https://ballotpedia.org/Kyle_Kacal

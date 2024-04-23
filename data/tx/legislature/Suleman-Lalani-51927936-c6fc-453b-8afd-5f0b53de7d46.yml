@@ -4,7 +4,7 @@ given_name: Suleman
 family_name: Lalani
 gender: Male
 email: suleman.lalani@house.texas.gov
-image: https://house.texas.gov/members/photos/4285.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/123134.jpg
 party:
 - name: Democratic
 roles:
@@ -22,3 +22,6 @@ links:
 - url: https://house.texas.gov/members/member-page/?district=76
 sources:
 - url: https://house.texas.gov/members/member-page/?district=76
+- url: https://en.wikipedia.org/wiki/Suleman_Lalani
+- url: https://www.linkedin.com/in/suleman-lalani-895a6739
+- url: https://ballotpedia.org/Suleman_Lalani

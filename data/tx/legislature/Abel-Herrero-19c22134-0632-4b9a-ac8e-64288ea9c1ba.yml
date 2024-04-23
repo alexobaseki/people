@@ -5,7 +5,7 @@ family_name: Herrero
 birth_date: '1969-10-29'
 gender: Male
 email: abel.herrero@house.texas.gov
-image: https://house.texas.gov/members/photos/3140.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/47411.jpg
 party:
 - name: Democratic
 roles:
@@ -36,3 +36,5 @@ other_identifiers:
 sources:
 - url: https://legdir.capitol.texas.gov/MemberInfo.aspx?Chamber=H&Code=A3140
 - url: https://house.texas.gov/members/member-page/?district=34
+- url: https://en.wikipedia.org/wiki/Abel_Herrero
+- url: https://ballotpedia.org/Abel_Herrero

@@ -5,7 +5,7 @@ family_name: Ordaz
 birth_date: '1986-01-13'
 gender: Female
 email: claudia.ordaz@house.texas.gov
-image: https://house.texas.gov/members/photos/4015.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/95840.jpg
 party:
 - name: Democratic
 roles:
@@ -34,4 +34,7 @@ other_names:
 - name: Ordaz
 sources:
 - url: https://house.texas.gov/members/member-page/?district=79
+- url: https://en.wikipedia.org/wiki/Claudia_Ordaz_Perez
+- url: https://www.linkedin.com/in/claudiaordazperez
+- url: https://ballotpedia.org/Claudia_Ordaz_Perez
 - url: https://house.texas.gov/members/member-page/?district=76

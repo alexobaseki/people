@@ -4,7 +4,7 @@ given_name: Kronda
 family_name: Thimesch
 gender: Female
 email: kronda.thimesch@house.texas.gov
-image: https://house.texas.gov/members/photos/4365.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/122819.jpg
 party:
 - name: Republican
 roles:
@@ -23,3 +23,5 @@ links:
 - url: https://house.texas.gov/members/member-page/?district=65
 sources:
 - url: https://house.texas.gov/members/member-page/?district=65
+- url: https://www.linkedin.com/in/greenmeadowslandscaping
+- url: https://ballotpedia.org/Kronda_Thimesch

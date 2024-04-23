@@ -5,7 +5,7 @@ family_name: Swanson
 birth_date: '1957-09-22'
 gender: Female
 email: valoree.swanson@house.texas.gov
-image: https://house.texas.gov/members/photos/3425.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/61035.jpg
 party:
 - name: Republican
 roles:
@@ -30,3 +30,6 @@ other_identifiers:
   identifier: TXL000694
 sources:
 - url: https://house.texas.gov/members/member-page/?district=150
+- url: https://en.wikipedia.org/wiki/Valoree_Swanson
+- url: https://justfacts.votesmart.org/candidate/biography/166529/valoree-swanson
+- url: https://ballotpedia.org/Valoree_Swanson

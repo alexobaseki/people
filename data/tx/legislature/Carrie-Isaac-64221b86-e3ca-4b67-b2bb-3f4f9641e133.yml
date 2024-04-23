@@ -4,7 +4,7 @@ given_name: Carrie Crain
 family_name: Isaac
 gender: Female
 email: carrie.isaac@house.texas.gov
-image: https://house.texas.gov/members/photos/4265.jpg?v=88.25
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/125068.jpg
 party:
 - name: Republican
 roles:
@@ -13,13 +13,15 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '73'
 offices:
-- classification: district
-  address: 137 Fredericksburg Road, New Braunfels, TX 78130
-  voice: 830-730-6248
 - classification: capitol-mail
   address: Room E2.702, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0325
+- classification: district
+  address: 137 Fredericksburg Road, New Braunfels, TX 78130
+  voice: 830-730-6248
 links:
 - url: https://house.texas.gov/members/member-page/?district=73
 sources:
 - url: https://house.texas.gov/members/member-page/?district=73
+- url: https://www.linkedin.com/in/carrie-crain-isaac
+- url: https://ballotpedia.org/Carrie_Isaac

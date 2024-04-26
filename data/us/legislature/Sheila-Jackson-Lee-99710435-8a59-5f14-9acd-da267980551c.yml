@@ -2,113 +2,97 @@ id: ocd-person/99710435-8a59-5f14-9acd-da267980551c
 name: Sheila Jackson Lee
 given_name: Sheila
 family_name: Jackson Lee
-gender: F
-birth_date: 1950-01-12
+birth_date: '1950-01-12'
+gender: Female
+email: https://jacksonlee.house.gov/zip_authentication?form=/contact
 image: https://theunitedstates.io/images/congress/450x550/J000032.jpg
 party:
-- start_date: '1995-01-04'
-  end_date: '2025-01-03'
-  name: Democratic
+- name: Democratic
 roles:
-- start_date: '1995-01-04'
-  end_date: '1997-01-03'
+- start_date: 1995-01-03
+  end_date: 2030-01-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:usa/government
+  district: TX-18
+- start_date: 1995-01-04
+  end_date: 1997-01-03
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/government
   district: TX-18
-- start_date: '1997-01-07'
-  end_date: '1999-01-03'
+- start_date: 1997-01-07
+  end_date: 1999-01-03
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/government
   district: TX-18
-- start_date: '1999-01-06'
-  end_date: '2001-01-03'
+- start_date: 1999-01-06
+  end_date: 2001-01-03
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/government
   district: TX-18
-- start_date: '2001-01-03'
-  end_date: '2003-01-03'
+- start_date: 2001-01-03
+  end_date: 2003-01-03
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/government
   district: TX-18
-- start_date: '2003-01-07'
-  end_date: '2005-01-03'
+- start_date: 2003-01-07
+  end_date: 2005-01-03
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/government
   district: TX-18
-- start_date: '2005-01-04'
-  end_date: '2007-01-03'
+- start_date: 2005-01-04
+  end_date: 2007-01-03
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/government
   district: TX-18
-- start_date: '2007-01-04'
-  end_date: '2009-01-03'
+- start_date: 2007-01-04
+  end_date: 2009-01-03
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/government
   district: TX-18
-- start_date: '2009-01-06'
-  end_date: '2011-01-03'
+- start_date: 2009-01-06
+  end_date: 2011-01-03
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/government
   district: TX-18
-- start_date: '2011-01-05'
-  end_date: '2013-01-03'
+- start_date: 2011-01-05
+  end_date: 2013-01-03
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/government
   district: TX-18
-- start_date: '2013-01-03'
-  end_date: '2015-01-03'
+- start_date: 2013-01-03
+  end_date: 2015-01-03
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/government
   district: TX-18
-- start_date: '2015-01-06'
-  end_date: '2017-01-03'
+- start_date: 2015-01-06
+  end_date: 2017-01-03
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/government
   district: TX-18
-- start_date: '2017-01-03'
-  end_date: '2019-01-03'
+- start_date: 2017-01-03
+  end_date: 2019-01-03
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/government
   district: TX-18
-- start_date: '2019-01-03'
-  end_date: '2021-01-03'
+- start_date: 2019-01-03
+  end_date: 2021-01-03
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/government
   district: TX-18
-- start_date: '2021-01-03'
-  end_date: '2023-01-03'
+- start_date: 2021-01-03
+  end_date: 2023-01-03
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/government
   district: TX-18
-- start_date: '2023-01-03'
-  end_date: '2025-01-03'
+- start_date: 2023-01-03
+  end_date: 2025-01-03
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/government
   district: TX-18
-offices:
-- classification: capitol
-  address: 2314 Rayburn House Office Building Washington DC 20515-4318
-  voice: 202-225-3816
-- classification: district
-  address: 4300 Lyons Ave.; Houston, TX 77020
-  voice: 713-227-7740
-  name: 'District Office #1'
-- classification: district
-  address: 1919 Smith St. Suite 1180; Houston, TX 77002
-  voice: 713-655-0050
-  fax: 713-655-1612
-  name: 'District Office #2'
-- classification: district
-  address: 6719 W Montgomery Rd Suite 204; Houston, TX 77091-3105
-  voice: 713-691-4882
-  name: 'District Office #3'
-- classification: district
-  address: 420 W 19th St; Houston, TX 77008-3914
-  voice: 713-861-4070
-  name: 'District Office #4'
 links:
 - url: https://jacksonlee.house.gov
   note: website
+- url: https://jacksonlee.house.gov/
 ids:
   twitter: JacksonLeeTX18
   youtube: UCi_S-mOZaEco2Zb9guf_8Iw
@@ -144,3 +128,11 @@ other_identifiers:
   identifier: Sheila Jackson Lee
 sources:
 - url: https://theunitedstates.io/
+- url: https://ballotpedia.org/Sheila_Jackson_Lee
+- url: https://en.wikipedia.org/wiki/Sheila_Jackson_Lee
+- url: https://jacksonlee.house.gov
+- url: https://jacksonlee.house.gov/about/full-biography
+- url: https://justfacts.votesmart.org/candidate/21692/sheila-jackson-lee
+- url: https://theunitedstates.io
+- url: https://www.govtrack.us/congress/members/sheila_jackson_lee/400199
+- url: https://www.linkedin.com/in/congresswomansheilajacksonlee

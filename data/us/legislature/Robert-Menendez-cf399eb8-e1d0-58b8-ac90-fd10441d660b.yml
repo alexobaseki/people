@@ -1,95 +1,87 @@
 id: ocd-person/cf399eb8-e1d0-58b8-ac90-fd10441d660b
-name: Robert Menendez
-given_name: Robert
+name: Bob Menendez
+given_name: Robert Jacobsen
 family_name: Menendez
-gender: M
-birth_date: 1954-01-01
+birth_date: '1954-01-01'
+gender: Male
+email: https://www.menendez.senate.gov/contact/email
 image: https://theunitedstates.io/images/congress/450x550/M000639.jpg
 party:
-- start_date: '1993-01-05'
-  end_date: '2025-01-03'
-  name: Democratic
+- name: Democratic
 roles:
-- start_date: '1993-01-05'
-  end_date: '1995-01-03'
+- start_date: 2006-01-18
+  end_date: 2030-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:usa/government
+  district: New Jersey
+- start_date: 1993-01-05
+  end_date: 1995-01-03
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/government
   district: NJ-13
-- start_date: '1995-01-04'
-  end_date: '1997-01-03'
+- start_date: 1995-01-04
+  end_date: 1997-01-03
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/government
   district: NJ-13
-- start_date: '1997-01-07'
-  end_date: '1999-01-03'
+- start_date: 1997-01-07
+  end_date: 1999-01-03
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/government
   district: NJ-13
-- start_date: '1999-01-06'
-  end_date: '2001-01-03'
+- start_date: 1999-01-06
+  end_date: 2001-01-03
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/government
   district: NJ-13
-- start_date: '2001-01-03'
-  end_date: '2003-01-03'
+- start_date: 2001-01-03
+  end_date: 2003-01-03
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/government
   district: NJ-13
-- start_date: '2003-01-07'
-  end_date: '2005-01-03'
+- start_date: 2003-01-07
+  end_date: 2005-01-03
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/government
   district: NJ-13
-- start_date: '2005-01-04'
-  end_date: '2006-01-16'
+- start_date: 2005-01-04
+  end_date: 2006-01-16
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/government
   district: NJ-13
-- start_date: '2006-01-18'
-  end_date: '2007-01-03'
+- start_date: 2006-01-18
+  end_date: 2007-01-03
   type: upper
   jurisdiction: ocd-jurisdiction/country:us/government
   district: New Jersey
-- start_date: '2007-01-04'
-  end_date: '2013-01-03'
+- start_date: 2007-01-04
+  end_date: 2013-01-03
   type: upper
   jurisdiction: ocd-jurisdiction/country:us/government
   district: New Jersey
-- start_date: '2013-01-03'
-  end_date: '2019-01-03'
+- start_date: 2013-01-03
+  end_date: 2019-01-03
   type: upper
   jurisdiction: ocd-jurisdiction/country:us/government
   district: New Jersey
-- start_date: '2019-01-03'
-  end_date: '2025-01-03'
+- start_date: 2019-01-03
+  end_date: 2025-01-03
   type: upper
   jurisdiction: ocd-jurisdiction/country:us/government
   district: New Jersey
-offices:
-- classification: capitol
-  address: 528 Hart Senate Office Building Washington DC 20510
-  voice: 202-224-4744
-- classification: district
-  address: 208 White Horse Pike Suite 18; Barrington, NJ 08007
-  voice: 856-757-5353
-  fax: 856-546-1526
-  name: 'District Office #1'
-- classification: district
-  address: One Gateway Center Suite 1100; Newark, NJ 07102
-  voice: 973-645-3030
-  fax: 973-645-0502
-  name: 'District Office #2'
 links:
 - url: https://www.menendez.senate.gov
   note: website
 - url: https://www.menendez.senate.gov/contact
   note: contact form
+- url: https://www.menendez.senate.gov/
+other_names:
+- name: Robert Menendez
+- name: Menendez (D-NJ)
 ids:
   twitter: SenatorMenendez
   youtube: UC0PV0K9Z5a9p3D5917KF5fw
   facebook: senatormenendez
-other_names:
-- name: Menendez (D-NJ)
 other_identifiers:
 - scheme: bioguide
   identifier: M000639
@@ -125,3 +117,12 @@ other_identifiers:
   identifier: kg:/m/033d3p
 sources:
 - url: https://theunitedstates.io/
+- url: https://ballotpedia.org/Bob_Menendez
+- url: https://chci.org/staff-and-leadership/sen-bob-menendez
+- url: https://en.wikipedia.org/wiki/Bob_Menendez
+- url: https://justfacts.votesmart.org/candidate/26961/bob-menendez
+- url: https://menendezfornj.com/meet-bob
+- url: https://theunitedstates.io
+- url: https://www.govtrack.us/congress/members/robert_menendez/400272
+- url: https://www.menendez.senate.gov
+- url: https://www.menendez.senate.gov/about

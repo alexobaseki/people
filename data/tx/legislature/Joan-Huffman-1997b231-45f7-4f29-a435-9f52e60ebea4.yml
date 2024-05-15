@@ -24,8 +24,6 @@ offices:
 - classification: district
   address: 16010 Barkers Point Lane Suite 265, Houston, TX 77079
   voice: 281-497-2450
-- classification: district-mail
-  address: P.O. Box 541774, Houston, TX 77254
 links:
 - url: https://senate.texas.gov/member.php?d=17
 other_identifiers:

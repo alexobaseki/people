@@ -24,10 +24,13 @@ links:
 - url: https://alison.legislature.state.al.us/house-leaders-members
   note: homepage
 sources:
-- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100511&OID_PERSON=8499
-- url: https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
-- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Lipscomb&OID_SPONSOR=100511&OID_PERSON=8499&SESSNAME=
+- url: https://ballotpedia.org/B._Craig_Lipscomb
+- url: https://en.wikipedia.org/wiki/Craig_Lipscomb
 - url: https://gql.api.alison.legislature.state.al.us/graphql
   note: graphql endpoint for member information
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Lipscomb&OID_SPONSOR=100511&OID_PERSON=8499&SESSNAME=
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100511&OID_PERSON=8499
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+- url: https://www.linkedin.com/in/bcraiglipscomb
 extras:
   counties: Etowah County, St. Clair County

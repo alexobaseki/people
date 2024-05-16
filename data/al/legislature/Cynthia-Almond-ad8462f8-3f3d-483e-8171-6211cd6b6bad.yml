@@ -22,9 +22,12 @@ links:
 - url: https://alison.legislature.state.al.us/house-leaders-members
   note: homepage
 sources:
-- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Almond&OID_SPONSOR=110857&OID_PERSON=9400&SESSNAME=
-- url: https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+- url: https://ballotpedia.org/Cynthia_Almond
 - url: https://gql.api.alison.legislature.state.al.us/graphql
   note: graphql endpoint for member information
+- url: https://www.almondattorneys.com
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Almond&OID_SPONSOR=110857&OID_PERSON=9400&SESSNAME=
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+- url: https://www.linkedin.com/in/cynthia-almond-96307219
 extras:
   counties: Tuscaloosa County

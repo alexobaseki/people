@@ -20,7 +20,10 @@ links:
 - url: https://alison.legislature.state.al.us/senate-leaders-members
   note: homepage
 sources:
+- url: https://ballotpedia.org/Lance_Bell
 - url: https://gql.api.alison.legislature.state.al.us/graphql
   note: graphql endpoint for member information
+- url: https://tfrblaw.com/attorneys/r-lance-bell
+- url: https://www.linkedin.com/in/lance-bell-412bb170
 extras:
   counties: Shelby County, St. Clair County, Talladega County

@@ -22,8 +22,11 @@ links:
 other_names:
 - name: Robert Stewart
 sources:
+- url: https://ballotpedia.org/Robert_Stewart_(Alabama)
+- url: https://en.wikipedia.org/wiki/Robert_Stewart_(Alabama_politician)
 - url: https://gql.api.alison.legislature.state.al.us/graphql
   note: graphql endpoint for member information
+- url: https://www.linkedin.com/in/robert-stewart-03711129
 extras:
   counties: Butler County, Clarke County, Conecuh County, Dallas County, Lowndes County,
     Monroe County, Perry County, Wilcox County

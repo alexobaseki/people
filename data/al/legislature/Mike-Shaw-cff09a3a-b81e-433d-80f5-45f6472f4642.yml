@@ -21,7 +21,9 @@ links:
 - url: https://alison.legislature.state.al.us/house-leaders-members
   note: homepage
 sources:
+- url: https://ballotpedia.org/Mike_Shaw_(Alabama)
 - url: https://gql.api.alison.legislature.state.al.us/graphql
   note: graphql endpoint for member information
+- url: https://www.linkedin.com/in/shawnuff
 extras:
   counties: Jefferson County

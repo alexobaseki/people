@@ -20,7 +20,9 @@ links:
 - url: https://alison.legislature.state.al.us/senate-leaders-members
   note: homepage
 sources:
+- url: https://ballotpedia.org/Jay_Hovey
 - url: https://gql.api.alison.legislature.state.al.us/graphql
   note: graphql endpoint for member information
+- url: https://www.linkedin.com/in/jay-hovey-37668bb
 extras:
   counties: Lee County, Russell County, Tallapoosa County

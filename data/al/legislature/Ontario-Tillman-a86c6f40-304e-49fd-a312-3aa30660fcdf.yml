@@ -21,7 +21,9 @@ links:
 - url: https://alison.legislature.state.al.us/house-leaders-members
   note: homepage
 sources:
+- url: https://ballotpedia.org/Ontario_Tillman
 - url: https://gql.api.alison.legislature.state.al.us/graphql
   note: graphql endpoint for member information
+- url: https://www.linkedin.com/in/ontario-tillman-b8517a41
 extras:
   counties: Jefferson County

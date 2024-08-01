@@ -53,10 +53,10 @@ members:
 - name: Samakab Hussein
   role: member
   person_id: ocd-person/1ff5f689-18c9-4d74-970f-c289f915dc6a
-extras:
-  room: Room 5
-  meeting schedule: Tuesday and Wednesday 3:00 p.m.
 other_names:
 - name: House Housing Finance and Policy
 - name: House Committee on Housing Finance and Policy
 - name: House Housing Finance and Policy Committee
+extras:
+  room: Room 5
+  meeting schedule: Tuesday and Wednesday 3:00 p.m.

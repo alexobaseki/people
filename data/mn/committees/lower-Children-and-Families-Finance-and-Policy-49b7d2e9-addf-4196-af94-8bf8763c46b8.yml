@@ -59,10 +59,10 @@ members:
 - name: Walter Hudson
   role: member
   person_id: ocd-person/0b721953-c642-4b33-b203-5eb3f3da210b
-extras:
-  room: Room 200
-  meeting schedule: Tuesday and Thursday, 8:30 a.m.
 other_names:
 - name: House Children and Families Finance and Policy
 - name: House Committee on Children and Families Finance and Policy
 - name: House Children and Families Finance and Policy Committee
+extras:
+  room: Room 200
+  meeting schedule: Tuesday and Thursday, 8:30 a.m.

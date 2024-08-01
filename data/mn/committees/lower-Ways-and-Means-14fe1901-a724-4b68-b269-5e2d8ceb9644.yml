@@ -89,10 +89,10 @@ members:
 - name: Tina Liebling
   role: member
   person_id: ocd-person/ed6e8851-f7a8-41af-b2b6-570bd2004587
-extras:
-  room: Room 200
-  meeting schedule: Monday, 10:30 a.m.
 other_names:
 - name: House Ways and Means
 - name: House Committee on Ways and Means
 - name: House Ways and Means Committee
+extras:
+  room: Room 200
+  meeting schedule: Monday, 10:30 a.m.

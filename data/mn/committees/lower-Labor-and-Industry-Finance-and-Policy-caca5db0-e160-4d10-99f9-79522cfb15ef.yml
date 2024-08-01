@@ -53,10 +53,10 @@ members:
 - name: Sydney Jordan
   role: member
   person_id: ocd-person/e60bb3ff-5164-4d6d-9029-d2e3d2ac69a0
-extras:
-  room: Room 10
-  meeting schedule: Tuesday and Thursday, 1:00 p.m.
 other_names:
 - name: House Labor and Industry Finance and Policy
 - name: House Committee on Labor and Industry Finance and Policy
 - name: House Labor and Industry Finance and Policy Committee
+extras:
+  room: Room 10
+  meeting schedule: Tuesday and Thursday, 1:00 p.m.

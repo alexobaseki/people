@@ -1,5 +1,6 @@
 id: ocd-organization/ab8e7739-6fcc-4621-a2bc-6dac0b753a49
 jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+jurisdiction_abbreviation: ak
 classification: committee
 name: Legislative Budget and Audit
 chamber: legislature
@@ -46,3 +47,9 @@ members:
 - name: Scott Kawasaki
   role: member
   person_id: ocd-person/53f7b86b-ce31-4199-86ef-f566ae9aa02c
+other_names:
+- name: Joint Legislative Budget and Audit
+- name: Committee on Legislative Budget and Audit
+- name: Joint Committee on Legislative Budget and Audit
+- name: Legislative Budget and Audit Committee
+- name: Joint Legislative Budget and Audit Committee

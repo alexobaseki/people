@@ -1,5 +1,6 @@
 id: ocd-organization/60fbf516-a187-4d9a-bcde-dea8ed90ce28
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Liquor Control
 chamber: lower
@@ -91,3 +92,9 @@ members:
 - name: Steve Malagari
   role: member
   person_id: ocd-person/fa1e1564-0a13-4b26-8416-098b39627df7
+other_names:
+- name: House Liquor Control
+- name: Committee on Liquor Control
+- name: House Committee on Liquor Control
+- name: Liquor Control Committee
+- name: House Liquor Control Committee

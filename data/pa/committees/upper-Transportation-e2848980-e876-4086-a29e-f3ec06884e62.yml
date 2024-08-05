@@ -1,0 +1,39 @@
+id: ocd-organization/e2848980-e876-4086-a29e-f3ec06884e62
+jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
+classification: committee
+name: Transportation
+chamber: upper
+links:
+- url: https://www.legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=19&CteeBody=S
+members:
+- name: Wayne Langerholc
+  role: chair
+  person_id: ocd-person/7b3a6244-335b-4407-957d-b7d6b6ab1d97
+- name: Marty Flynn
+  role: democratic chair
+  person_id: ocd-person/7061c75d-7eeb-40aa-841e-8121edba5d8a
+- name: Camera Bartolotta
+  role: member
+  person_id: ocd-person/66b8c0a7-f8be-4acd-aafb-29ca02fcde65
+- name: Elder Vogel
+  role: member
+  person_id: ocd-person/8a2a9b56-cdfa-45e0-a26e-b45b547a2eae
+- name: Jim Brewster
+  role: member
+  person_id: ocd-person/cac6095b-9793-4edb-835a-70bc551dfd84
+- name: John DiSanto
+  role: member
+  person_id: ocd-person/01ce8a7c-29e4-4439-be3a-b919797dc912
+- name: John Kane
+  role: member
+  person_id: ocd-person/c45052c1-f3e4-485e-a3d2-f346fa51839b
+- name: Lindsey Williams
+  role: member
+  person_id: ocd-person/bc64322a-faaf-4b33-b6c2-cf5059f4121c
+- name: Pat Stefano
+  role: member
+  person_id: ocd-person/14106428-709f-4018-8881-5c31ee078ff8
+- name: Tim Kearney
+  role: member
+  person_id: ocd-person/f9f2479f-0c37-47d1-a4eb-666146e2856f

@@ -1,5 +1,6 @@
 id: ocd-organization/de8958dd-988e-4552-8790-93edfd1417ed
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Economic Incentives Permanent Legislative Advisory
 chamber: legislature
@@ -23,3 +24,9 @@ members:
 - name: Steve Clouse
   role: member
   person_id: ocd-person/6b191fda-698d-4061-8396-fef9771847ee
+other_names:
+- name: Joint Economic Incentives Permanent Legislative Advisory
+- name: Committee on Economic Incentives Permanent Legislative Advisory
+- name: Joint Committee on Economic Incentives Permanent Legislative Advisory
+- name: Economic Incentives Permanent Legislative Advisory Committee
+- name: Joint Economic Incentives Permanent Legislative Advisory Committee

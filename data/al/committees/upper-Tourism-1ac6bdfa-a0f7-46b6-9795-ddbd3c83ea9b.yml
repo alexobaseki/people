@@ -1,5 +1,6 @@
 id: ocd-organization/1ac6bdfa-a0f7-46b6-9795-ddbd3c83ea9b
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Tourism
 chamber: upper
@@ -50,6 +51,12 @@ members:
 - name: Steve Livingston
   role: member
   person_id: ocd-person/dd765598-9bed-4301-9f49-7e06fffd7fce
+other_names:
+- name: Senate Tourism
+- name: Committee on Tourism
+- name: Senate Committee on Tourism
+- name: Tourism Committee
+- name: Senate Tourism Committee
 extras:
   Clerk: Asia Franklin
   Phone: 334 261-0712

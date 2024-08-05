@@ -1,5 +1,6 @@
 id: ocd-organization/43f4c321-79e5-41db-b14b-206a73f599f9
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Rules
 chamber: upper
@@ -59,6 +60,12 @@ members:
 - name: Vivian Figures
   role: member
   person_id: ocd-person/63d0a35f-ec68-48e2-be94-d5e3cb60b3c3
+other_names:
+- name: Senate Rules
+- name: Committee on Rules
+- name: Senate Committee on Rules
+- name: Rules Committee
+- name: Senate Rules Committee
 extras:
   Clerk: Sue Spears
   Phone: 334 261-0853

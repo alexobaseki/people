@@ -1,5 +1,6 @@
 id: ocd-organization/34d99500-83c2-44af-bff8-de8d9d87ed69
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Gaming Oversight
 chamber: lower
@@ -91,3 +92,9 @@ members:
 - name: Tom Mehaffie
   role: member
   person_id: ocd-person/bda0ab75-036f-49bd-9dd5-cfc9c55eec02
+other_names:
+- name: House Gaming Oversight
+- name: Committee on Gaming Oversight
+- name: House Committee on Gaming Oversight
+- name: Gaming Oversight Committee
+- name: House Gaming Oversight Committee

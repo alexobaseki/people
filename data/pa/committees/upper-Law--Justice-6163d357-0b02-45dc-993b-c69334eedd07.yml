@@ -1,5 +1,6 @@
 id: ocd-organization/6163d357-0b02-45dc-993b-c69334eedd07
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Law and Justice
 chamber: upper
@@ -49,3 +50,9 @@ members:
 - name: Tina Tartaglione
   role: member
   person_id: ocd-person/f3b4fe8c-05f9-4610-81ef-354c0fcb0cdd
+other_names:
+- name: Senate Law and Justice
+- name: Committee on Law and Justice
+- name: Senate Committee on Law and Justice
+- name: Law and Justice Committee
+- name: Senate Law and Justice Committee

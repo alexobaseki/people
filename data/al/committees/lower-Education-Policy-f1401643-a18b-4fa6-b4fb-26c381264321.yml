@@ -1,5 +1,6 @@
 id: ocd-organization/f1401643-a18b-4fa6-b4fb-26c381264321
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Education Policy
 chamber: lower
@@ -62,6 +63,12 @@ members:
 - name: Van Smith
   role: member
   person_id: ocd-person/2e9b60b3-d931-412e-a9f6-803aa7c7b085
+other_names:
+- name: House Education Policy
+- name: Committee on Education Policy
+- name: House Committee on Education Policy
+- name: Education Policy Committee
+- name: House Education Policy Committee
 extras:
   Clerk: Adam Rawlins
   Phone: (334) 261-0493

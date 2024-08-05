@@ -1,5 +1,6 @@
 id: ocd-organization/8c6a3bc2-a2ae-4dc4-8440-1003ff340d8b
 jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+jurisdiction_abbreviation: ak
 classification: committee
 name: Finance
 chamber: upper
@@ -29,3 +30,9 @@ members:
 - name: Kelly Merrick
   role: member
   person_id: ocd-person/ddad148b-d8ed-4eff-826d-3861709eb500
+other_names:
+- name: Senate Finance
+- name: Committee on Finance
+- name: Senate Committee on Finance
+- name: Finance Committee
+- name: Senate Finance Committee

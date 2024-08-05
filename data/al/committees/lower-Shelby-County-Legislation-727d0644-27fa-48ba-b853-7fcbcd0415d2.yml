@@ -1,5 +1,6 @@
 id: ocd-organization/727d0644-27fa-48ba-b853-7fcbcd0415d2
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Shelby County Legislation
 chamber: lower
@@ -26,6 +27,12 @@ members:
 - name: Kenneth Paschal
   role: member
   person_id: ocd-person/ab6d4114-8d0a-4439-934b-10197234473c
+other_names:
+- name: House Shelby County Legislation
+- name: Committee on Shelby County Legislation
+- name: House Committee on Shelby County Legislation
+- name: Shelby County Legislation Committee
+- name: House Shelby County Legislation Committee
 extras:
   Clerk: Jennifer Stallworth
   Phone: (334) 261-0466

@@ -1,5 +1,6 @@
 id: ocd-organization/5c370079-4c80-4d2b-b66d-e15f845a5dd8
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Veterans Affairs and Emergency Preparedness
 chamber: lower
@@ -91,3 +92,9 @@ members:
 - name: Zach Mako
   role: member
   person_id: ocd-person/c3b27985-614c-434d-b3c0-3e032fad4d6c
+other_names:
+- name: House Veterans Affairs and Emergency Preparedness
+- name: Committee on Veterans Affairs and Emergency Preparedness
+- name: House Committee on Veterans Affairs and Emergency Preparedness
+- name: Veterans Affairs and Emergency Preparedness Committee
+- name: House Veterans Affairs and Emergency Preparedness Committee

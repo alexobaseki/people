@@ -1,5 +1,6 @@
 id: ocd-organization/d66070c3-55c1-4e57-a9d2-4407aa7c3c11
 jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+jurisdiction_abbreviation: ak
 classification: committee
 name: Legislative Council
 chamber: legislature
@@ -52,3 +53,9 @@ members:
 - name: Sara Hannan
   role: member
   person_id: ocd-person/6cec7228-ed13-47f6-b896-59f927789f6d
+other_names:
+- name: Joint Legislative Council
+- name: Committee on Legislative Council
+- name: Joint Committee on Legislative Council
+- name: Legislative Council Committee
+- name: Joint Legislative Council Committee

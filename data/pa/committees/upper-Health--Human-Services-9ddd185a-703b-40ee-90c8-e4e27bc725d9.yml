@@ -1,5 +1,6 @@
 id: ocd-organization/9ddd185a-703b-40ee-90c8-e4e27bc725d9
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Health and Human Services
 chamber: upper
@@ -49,3 +50,9 @@ members:
 - name: Scott Hutchinson
   role: member
   person_id: ocd-person/5d3e2203-b11c-4471-8f35-5106c30263ec
+other_names:
+- name: Senate Health and Human Services
+- name: Committee on Health and Human Services
+- name: Senate Committee on Health and Human Services
+- name: Health and Human Services Committee
+- name: Senate Health and Human Services Committee

@@ -1,5 +1,6 @@
 id: ocd-organization/13b8bff6-db47-41b9-aff5-0fd5835b6cc6
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Veterans Affairs and Emergency Preparedness
 chamber: upper
@@ -49,3 +50,9 @@ members:
 - name: Wayne Langerholc
   role: member
   person_id: ocd-person/7b3a6244-335b-4407-957d-b7d6b6ab1d97
+other_names:
+- name: Senate Veterans Affairs and Emergency Preparedness
+- name: Committee on Veterans Affairs and Emergency Preparedness
+- name: Senate Committee on Veterans Affairs and Emergency Preparedness
+- name: Veterans Affairs and Emergency Preparedness Committee
+- name: Senate Veterans Affairs and Emergency Preparedness Committee

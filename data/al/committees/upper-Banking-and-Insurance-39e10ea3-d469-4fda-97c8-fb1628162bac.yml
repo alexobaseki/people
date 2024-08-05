@@ -1,5 +1,6 @@
 id: ocd-organization/39e10ea3-d469-4fda-97c8-fb1628162bac
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Banking and Insurance
 chamber: upper
@@ -62,6 +63,12 @@ members:
 - name: Will Barfoot
   role: member
   person_id: ocd-person/8cca1495-936e-4ac5-920a-cc4aa22e495e
+other_names:
+- name: Senate Banking and Insurance
+- name: Committee on Banking and Insurance
+- name: Senate Committee on Banking and Insurance
+- name: Banking and Insurance Committee
+- name: Senate Banking and Insurance Committee
 extras:
   Clerk: Katie Fisher
   Phone: 334 261-0710

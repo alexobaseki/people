@@ -1,5 +1,6 @@
 id: ocd-organization/3d0264c6-77f3-4266-9843-a4e33785de4b
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Environmental Resources and Energy
 chamber: lower
@@ -91,3 +92,9 @@ members:
 - name: Stephanie Borowicz
   role: member
   person_id: ocd-person/bccfe530-42ce-47b0-aadf-ae863b37cf9a
+other_names:
+- name: House Environmental Resources and Energy
+- name: Committee on Environmental Resources and Energy
+- name: House Committee on Environmental Resources and Energy
+- name: Environmental Resources and Energy Committee
+- name: House Environmental Resources and Energy Committee

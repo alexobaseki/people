@@ -1,5 +1,6 @@
 id: ocd-organization/50645f1d-4bf1-45e0-b2a0-a9772470f9ad
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Tuscaloosa County
 chamber: lower
@@ -25,3 +26,9 @@ members:
 - name: Ron Bolton
   role: member
   person_id: ocd-person/b94526a8-1564-43f5-ad38-98b795e95f02
+other_names:
+- name: House Tuscaloosa County
+- name: Committee on Tuscaloosa County
+- name: House Committee on Tuscaloosa County
+- name: Tuscaloosa County Committee
+- name: House Tuscaloosa County Committee

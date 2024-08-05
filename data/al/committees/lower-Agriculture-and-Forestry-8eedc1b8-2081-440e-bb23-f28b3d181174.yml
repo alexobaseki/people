@@ -1,5 +1,6 @@
 id: ocd-organization/8eedc1b8-2081-440e-bb23-f28b3d181174
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Agriculture and Forestry
 chamber: lower
@@ -62,6 +63,12 @@ members:
 - name: Van Smith
   role: member
   person_id: ocd-person/2e9b60b3-d931-412e-a9f6-803aa7c7b085
+other_names:
+- name: House Agriculture and Forestry
+- name: Committee on Agriculture and Forestry
+- name: House Committee on Agriculture and Forestry
+- name: Agriculture and Forestry Committee
+- name: House Agriculture and Forestry Committee
 extras:
   Clerk: Carmen Berrey
   Phone: (334) 261-0468

@@ -1,5 +1,6 @@
 id: ocd-organization/e31ea55a-3579-4150-8aa6-cd217b3afebb
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Labor and Industry
 chamber: lower
@@ -91,3 +92,9 @@ members:
 - name: Torren Ecker
   role: member
   person_id: ocd-person/6f375652-451b-4c39-9b29-6ba5a07073c6
+other_names:
+- name: House Labor and Industry
+- name: Committee on Labor and Industry
+- name: House Committee on Labor and Industry
+- name: Labor and Industry Committee
+- name: House Labor and Industry Committee

@@ -1,5 +1,6 @@
 id: ocd-organization/933d7556-9d1b-4105-ba8d-c3edce71de8e
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Constitution, Campaigns and Elections
 chamber: lower
@@ -48,3 +49,9 @@ members:
 - name: Mark Shirey
   role: member
   person_id: ocd-person/41debaee-f705-453d-a46f-3e8282b8a4b0
+other_names:
+- name: House Constitution, Campaigns and Elections
+- name: Committee on Constitution, Campaigns and Elections
+- name: House Committee on Constitution, Campaigns and Elections
+- name: Constitution, Campaigns and Elections Committee
+- name: House Constitution, Campaigns and Elections Committee

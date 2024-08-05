@@ -1,5 +1,6 @@
 id: ocd-organization/72e4e241-a10f-4b03-8241-6e9a722264eb
 jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+jurisdiction_abbreviation: ak
 classification: committee
 name: Energy Special
 chamber: lower
@@ -31,3 +32,9 @@ members:
 - name: Tom McKay
   role: member
   person_id: ocd-person/60762d79-1ddd-4a7b-b385-0f31b0e49670
+other_names:
+- name: House Energy Special
+- name: Committee on Energy Special
+- name: House Committee on Energy Special
+- name: Energy Special Committee
+- name: House Energy Special Committee

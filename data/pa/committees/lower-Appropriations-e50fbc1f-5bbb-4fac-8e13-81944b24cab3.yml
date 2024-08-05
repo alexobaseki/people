@@ -1,5 +1,6 @@
 id: ocd-organization/e50fbc1f-5bbb-4fac-8e13-81944b24cab3
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Appropriations
 chamber: lower
@@ -126,3 +127,9 @@ members:
 - name: Zach Mako
   role: member
   person_id: ocd-person/c3b27985-614c-434d-b3c0-3e032fad4d6c
+other_names:
+- name: House Appropriations
+- name: Committee on Appropriations
+- name: House Committee on Appropriations
+- name: Appropriations Committee
+- name: House Appropriations Committee

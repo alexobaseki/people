@@ -1,5 +1,6 @@
 id: ocd-organization/8a64fe66-f69a-4d2a-aa68-d2ff63647eb1
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Jefferson County Legislation
 chamber: upper
@@ -33,3 +34,9 @@ members:
 - name: Shay Shelnutt
   role: member
   person_id: ocd-person/9487b441-352c-43be-a2bb-8abc45e20671
+other_names:
+- name: Senate Jefferson County Legislation
+- name: Committee on Jefferson County Legislation
+- name: Senate Committee on Jefferson County Legislation
+- name: Jefferson County Legislation Committee
+- name: Senate Jefferson County Legislation Committee

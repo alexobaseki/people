@@ -1,5 +1,6 @@
 id: ocd-organization/4b38fa0e-6d72-40d3-8f46-228cfb25b141
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Limestone County Legislation
 chamber: lower
@@ -23,6 +24,12 @@ members:
 - name: Parker Moore
   role: member
   person_id: ocd-person/95e63d6f-1815-4364-8817-0d26e360013f
+other_names:
+- name: House Limestone County Legislation
+- name: Committee on Limestone County Legislation
+- name: House Committee on Limestone County Legislation
+- name: Limestone County Legislation Committee
+- name: House Limestone County Legislation Committee
 extras:
   Clerk: Adam Rawlins
   Phone: (334) 261-0493

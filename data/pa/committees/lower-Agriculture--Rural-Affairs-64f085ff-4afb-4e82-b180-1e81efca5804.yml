@@ -1,5 +1,6 @@
 id: ocd-organization/64f085ff-4afb-4e82-b180-1e81efca5804
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Agriculture and Rural Affairs
 chamber: lower
@@ -90,3 +91,9 @@ members:
 - name: Tom Jones
   role: member
   person_id: ocd-person/7f6b3c0e-4446-4243-ae49-d2d33ab30273
+other_names:
+- name: House Agriculture and Rural Affairs
+- name: Committee on Agriculture and Rural Affairs
+- name: House Committee on Agriculture and Rural Affairs
+- name: Agriculture and Rural Affairs Committee
+- name: House Agriculture and Rural Affairs Committee

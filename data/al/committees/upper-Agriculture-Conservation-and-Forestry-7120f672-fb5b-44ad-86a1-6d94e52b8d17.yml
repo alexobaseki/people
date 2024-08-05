@@ -1,5 +1,6 @@
 id: ocd-organization/7120f672-fb5b-44ad-86a1-6d94e52b8d17
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Agriculture Conservation and Forestry
 chamber: upper
@@ -52,3 +53,9 @@ members:
 - name: Will Barfoot
   role: member
   person_id: ocd-person/8cca1495-936e-4ac5-920a-cc4aa22e495e
+other_names:
+- name: Senate Agriculture Conservation and Forestry
+- name: Committee on Agriculture Conservation and Forestry
+- name: Senate Committee on Agriculture Conservation and Forestry
+- name: Agriculture Conservation and Forestry Committee
+- name: Senate Agriculture Conservation and Forestry Committee

@@ -1,5 +1,6 @@
 id: ocd-organization/34e6556a-e208-4d39-b6d0-71a96844aafb
 jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+jurisdiction_abbreviation: ak
 classification: committee
 name: Labor and Commerce
 chamber: upper
@@ -25,3 +26,9 @@ members:
 - name: Kelly Merrick
   role: member
   person_id: ocd-person/ddad148b-d8ed-4eff-826d-3861709eb500
+other_names:
+- name: Senate Labor and Commerce
+- name: Committee on Labor and Commerce
+- name: Senate Committee on Labor and Commerce
+- name: Labor and Commerce Committee
+- name: Senate Labor and Commerce Committee

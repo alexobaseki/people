@@ -1,5 +1,6 @@
 id: ocd-organization/6d8c1e13-d2d1-4530-8455-bbf579e72ca9
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Shelby County Legislation
 chamber: upper
@@ -22,3 +23,9 @@ members:
 - name: Lance Bell
   role: member
   person_id: ocd-person/889eac7b-10b6-4f00-9bd6-e93a93d93211
+other_names:
+- name: Senate Shelby County Legislation
+- name: Committee on Shelby County Legislation
+- name: Senate Committee on Shelby County Legislation
+- name: Shelby County Legislation Committee
+- name: Senate Shelby County Legislation Committee

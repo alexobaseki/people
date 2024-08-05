@@ -1,5 +1,6 @@
 id: ocd-organization/1fc7a994-4005-488e-8b54-1ba2dbf9ded9
 jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+jurisdiction_abbreviation: ak
 classification: committee
 name: Community and Regional Affairs
 chamber: lower
@@ -31,3 +32,9 @@ members:
 - name: Tom McKay
   role: member
   person_id: ocd-person/60762d79-1ddd-4a7b-b385-0f31b0e49670
+other_names:
+- name: House Community and Regional Affairs
+- name: Committee on Community and Regional Affairs
+- name: House Committee on Community and Regional Affairs
+- name: Community and Regional Affairs Committee
+- name: House Community and Regional Affairs Committee

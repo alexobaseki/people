@@ -1,5 +1,6 @@
 id: ocd-organization/599897eb-fcd6-4f42-84f0-36f8d5206537
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Intergovernmental Operations
 chamber: upper
@@ -49,3 +50,9 @@ members:
 - name: Vincent Hughes
   role: member
   person_id: ocd-person/53a598e0-3595-4b19-8f65-4a538bdc7a74
+other_names:
+- name: Senate Intergovernmental Operations
+- name: Committee on Intergovernmental Operations
+- name: Senate Committee on Intergovernmental Operations
+- name: Intergovernmental Operations Committee
+- name: Senate Intergovernmental Operations Committee

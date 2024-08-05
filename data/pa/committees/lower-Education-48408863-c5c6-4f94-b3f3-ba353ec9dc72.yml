@@ -1,5 +1,6 @@
 id: ocd-organization/48408863-c5c6-4f94-b3f3-ba353ec9dc72
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Education
 chamber: lower
@@ -91,3 +92,9 @@ members:
 - name: Tarah Probst
   role: member
   person_id: ocd-person/8caab7df-f601-45f0-9be5-35d94175e766
+other_names:
+- name: House Education
+- name: Committee on Education
+- name: House Committee on Education
+- name: Education Committee
+- name: House Education Committee

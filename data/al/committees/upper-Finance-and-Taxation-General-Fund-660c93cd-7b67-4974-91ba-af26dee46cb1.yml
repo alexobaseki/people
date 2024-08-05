@@ -1,5 +1,6 @@
 id: ocd-organization/660c93cd-7b67-4974-91ba-af26dee46cb1
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Finance and Taxation General Fund
 chamber: upper
@@ -62,6 +63,12 @@ members:
 - name: Steve Livingston
   role: member
   person_id: ocd-person/dd765598-9bed-4301-9f49-7e06fffd7fce
+other_names:
+- name: Senate Finance and Taxation General Fund
+- name: Committee on Finance and Taxation General Fund
+- name: Senate Committee on Finance and Taxation General Fund
+- name: Finance and Taxation General Fund Committee
+- name: Senate Finance and Taxation General Fund Committee
 extras:
   Clerk: Dianne Gray
   Phone: 334 261-0785

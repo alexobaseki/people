@@ -1,5 +1,6 @@
 id: ocd-organization/9c4978fe-e1a3-4137-b629-3b4ce3bd44ba
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Committee on Committees
 chamber: lower
@@ -55,3 +56,9 @@ members:
 - name: Tim O'Neal
   role: member
   person_id: ocd-person/2c5551d6-71a8-4099-b1a4-a30721320869
+other_names:
+- name: House Committee on Committees
+- name: Committee on Committee on Committees
+- name: House Committee on Committee on Committees
+- name: Committee on Committees Committee
+- name: House Committee on Committees Committee

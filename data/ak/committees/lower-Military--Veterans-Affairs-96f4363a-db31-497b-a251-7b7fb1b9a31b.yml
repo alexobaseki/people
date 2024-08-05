@@ -1,5 +1,6 @@
 id: ocd-organization/96f4363a-db31-497b-a251-7b7fb1b9a31b
 jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+jurisdiction_abbreviation: ak
 classification: committee
 name: Military and Veterans' Affairs Special
 chamber: lower
@@ -31,3 +32,9 @@ members:
 - name: Laddie Shaw
   role: member
   person_id: ocd-person/ef814d49-0425-4d61-944a-bf1fb4b1b7d5
+other_names:
+- name: House Military and Veterans' Affairs Special
+- name: Committee on Military and Veterans' Affairs Special
+- name: House Committee on Military and Veterans' Affairs Special
+- name: Military and Veterans' Affairs Special Committee
+- name: House Military and Veterans' Affairs Special Committee

@@ -1,5 +1,6 @@
 id: ocd-organization/f8a8e593-6236-406f-91fc-16ca21190257
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Baldwin County Legislation
 chamber: lower
@@ -20,6 +21,12 @@ members:
 - name: Alan Baker
   role: member
   person_id: ocd-person/cb2488d5-f0b6-4e9f-948b-ff7e9f4e1907
+other_names:
+- name: House Baldwin County Legislation
+- name: Committee on Baldwin County Legislation
+- name: House Committee on Baldwin County Legislation
+- name: Baldwin County Legislation Committee
+- name: House Baldwin County Legislation Committee
 extras:
   Clerk: Mikelann Auburtin
   Phone: (334) 261-0488

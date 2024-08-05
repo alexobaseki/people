@@ -1,5 +1,6 @@
 id: ocd-organization/ecc5b652-8fae-4277-8bbc-e6078100bc3b
 jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+jurisdiction_abbreviation: ak
 classification: committee
 name: Finance
 chamber: lower
@@ -47,3 +48,9 @@ members:
 - name: Will Stapp
   role: member
   person_id: ocd-person/ede005ce-9d29-4b8e-8b24-b2136d05edf6
+other_names:
+- name: House Finance
+- name: Committee on Finance
+- name: House Committee on Finance
+- name: Finance Committee
+- name: House Finance Committee

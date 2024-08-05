@@ -1,5 +1,6 @@
 id: ocd-organization/4a05f531-2b82-4c40-8883-82916db509c9
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: State Government
 chamber: upper
@@ -49,3 +50,9 @@ members:
 - name: Tony Williams
   role: member
   person_id: ocd-person/fe79a0f0-7dfd-442a-8b79-f8792613a4de
+other_names:
+- name: Senate State Government
+- name: Committee on State Government
+- name: Senate Committee on State Government
+- name: State Government Committee
+- name: Senate State Government Committee

@@ -1,5 +1,6 @@
 id: ocd-organization/585cfd5f-dcae-4fb6-a762-b203f1c826de
 jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+jurisdiction_abbreviation: ak
 classification: committee
 name: Armed Services
 chamber: legislature
@@ -40,3 +41,9 @@ members:
 - name: Stanley Wright
   role: member
   person_id: ocd-person/99750f78-3460-47bb-baa2-adc98acf17d6
+other_names:
+- name: Joint Armed Services
+- name: Committee on Armed Services
+- name: Joint Committee on Armed Services
+- name: Armed Services Committee
+- name: Joint Armed Services Committee

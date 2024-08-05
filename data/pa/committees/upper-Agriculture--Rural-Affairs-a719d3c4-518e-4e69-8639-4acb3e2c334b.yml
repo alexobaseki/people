@@ -1,5 +1,6 @@
 id: ocd-organization/a719d3c4-518e-4e69-8639-4acb3e2c334b
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Agriculture and Rural Affairs
 chamber: upper
@@ -49,3 +50,9 @@ members:
 - name: Sharif Street
   role: member
   person_id: ocd-person/b0d20b05-428a-4e3a-bda1-bbba5c3cfd6a
+other_names:
+- name: Senate Agriculture and Rural Affairs
+- name: Committee on Agriculture and Rural Affairs
+- name: Senate Committee on Agriculture and Rural Affairs
+- name: Agriculture and Rural Affairs Committee
+- name: Senate Agriculture and Rural Affairs Committee

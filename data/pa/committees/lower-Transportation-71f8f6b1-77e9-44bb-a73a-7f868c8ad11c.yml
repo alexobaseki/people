@@ -1,5 +1,6 @@
 id: ocd-organization/71f8f6b1-77e9-44bb-a73a-7f868c8ad11c
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Transportation
 chamber: lower
@@ -91,3 +92,9 @@ members:
 - name: Shelby Labs
   role: member
   person_id: ocd-person/7c0b9792-8ece-4ae8-b0f3-f5d4b79ff9f1
+other_names:
+- name: House Transportation
+- name: Committee on Transportation
+- name: House Committee on Transportation
+- name: Transportation Committee
+- name: House Transportation Committee

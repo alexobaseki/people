@@ -1,5 +1,6 @@
 id: ocd-organization/623215e9-9964-4010-a246-16834d87848e
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Environmental Resources and Energy
 chamber: upper
@@ -49,3 +50,9 @@ members:
 - name: Scott Martin
   role: member
   person_id: ocd-person/c2fcd2dc-22f8-4ec2-b70a-439bc6d60802
+other_names:
+- name: Senate Environmental Resources and Energy
+- name: Committee on Environmental Resources and Energy
+- name: Senate Committee on Environmental Resources and Energy
+- name: Environmental Resources and Energy Committee
+- name: Senate Environmental Resources and Energy Committee

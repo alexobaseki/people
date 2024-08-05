@@ -1,5 +1,6 @@
 id: ocd-organization/f272f860-5a9e-48d7-a7d5-767084a654ea
 jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+jurisdiction_abbreviation: ak
 classification: committee
 name: Select Committee on Legislative Ethics
 chamber: legislature
@@ -34,3 +35,9 @@ members:
 - name: Sara Hannan
   role: member
   person_id: ocd-person/6cec7228-ed13-47f6-b896-59f927789f6d
+other_names:
+- name: Joint Select Committee on Legislative Ethics
+- name: Committee on Select Committee on Legislative Ethics
+- name: Joint Committee on Select Committee on Legislative Ethics
+- name: Select Committee on Legislative Ethics Committee
+- name: Joint Select Committee on Legislative Ethics Committee

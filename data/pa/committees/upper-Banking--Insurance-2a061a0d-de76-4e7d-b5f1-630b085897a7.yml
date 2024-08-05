@@ -1,5 +1,6 @@
 id: ocd-organization/2a061a0d-de76-4e7d-b5f1-630b085897a7
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Banking and Insurance
 chamber: upper
@@ -58,3 +59,9 @@ members:
 - name: Tony Williams
   role: member
   person_id: ocd-person/fe79a0f0-7dfd-442a-8b79-f8792613a4de
+other_names:
+- name: Senate Banking and Insurance
+- name: Committee on Banking and Insurance
+- name: Senate Committee on Banking and Insurance
+- name: Banking and Insurance Committee
+- name: Senate Banking and Insurance Committee

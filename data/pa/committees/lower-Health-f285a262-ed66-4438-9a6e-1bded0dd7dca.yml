@@ -1,5 +1,6 @@
 id: ocd-organization/f285a262-ed66-4438-9a6e-1bded0dd7dca
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Health
 chamber: lower
@@ -91,3 +92,9 @@ members:
 - name: Tim Twardzik
   role: member
   person_id: ocd-person/686cdc9c-8133-4c1b-a7f0-34b420884559
+other_names:
+- name: House Health
+- name: Committee on Health
+- name: House Committee on Health
+- name: Health Committee
+- name: House Health Committee

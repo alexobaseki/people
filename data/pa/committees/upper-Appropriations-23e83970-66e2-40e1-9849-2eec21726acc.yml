@@ -1,5 +1,6 @@
 id: ocd-organization/23e83970-66e2-40e1-9849-2eec21726acc
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Appropriations
 chamber: upper
@@ -88,3 +89,9 @@ members:
 - name: Wayne Langerholc
   role: member
   person_id: ocd-person/7b3a6244-335b-4407-957d-b7d6b6ab1d97
+other_names:
+- name: Senate Appropriations
+- name: Committee on Appropriations
+- name: Senate Committee on Appropriations
+- name: Appropriations Committee
+- name: Senate Appropriations Committee

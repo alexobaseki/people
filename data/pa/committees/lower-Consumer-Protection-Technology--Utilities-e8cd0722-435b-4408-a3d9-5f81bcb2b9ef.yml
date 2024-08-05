@@ -1,5 +1,6 @@
 id: ocd-organization/e8cd0722-435b-4408-a3d9-5f81bcb2b9ef
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Consumer Protection, Technology and Utilities
 chamber: lower
@@ -87,3 +88,9 @@ members:
 - name: Tom Mehaffie
   role: member
   person_id: ocd-person/bda0ab75-036f-49bd-9dd5-cfc9c55eec02
+other_names:
+- name: House Consumer Protection, Technology and Utilities
+- name: Committee on Consumer Protection, Technology and Utilities
+- name: House Committee on Consumer Protection, Technology and Utilities
+- name: Consumer Protection, Technology and Utilities Committee
+- name: House Consumer Protection, Technology and Utilities Committee

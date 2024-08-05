@@ -1,5 +1,6 @@
 id: ocd-organization/a38436cc-9de7-4b11-94b6-b0bcb53ee7c2
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Public Safety and Homeland Security
 chamber: lower
@@ -59,6 +60,12 @@ members:
 - name: Tracy Estes
   role: member
   person_id: ocd-person/25308613-cda5-4e1c-aef7-821ada580575
+other_names:
+- name: House Public Safety and Homeland Security
+- name: Committee on Public Safety and Homeland Security
+- name: House Committee on Public Safety and Homeland Security
+- name: Public Safety and Homeland Security Committee
+- name: House Public Safety and Homeland Security Committee
 extras:
   Clerk: Teresa Evans
   Phone: (334) 261-0550

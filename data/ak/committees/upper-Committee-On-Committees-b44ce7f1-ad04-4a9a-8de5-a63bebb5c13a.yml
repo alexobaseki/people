@@ -1,5 +1,6 @@
 id: ocd-organization/b44ce7f1-ad04-4a9a-8de5-a63bebb5c13a
 jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+jurisdiction_abbreviation: ak
 classification: committee
 name: Committee on Committees
 chamber: upper
@@ -25,3 +26,9 @@ members:
 - name: Lyman Hoffman
   role: member
   person_id: ocd-person/e187d603-9202-4f64-80b0-6366702aec11
+other_names:
+- name: Senate Committee on Committees
+- name: Committee on Committee on Committees
+- name: Senate Committee on Committee on Committees
+- name: Committee on Committees Committee
+- name: Senate Committee on Committees Committee

@@ -1,5 +1,6 @@
 id: ocd-organization/a7181a15-d00d-450a-8bcc-fdd7f5e15bf1
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: State Government
 chamber: lower
@@ -56,6 +57,12 @@ members:
 - name: Scott Stadthagen
   role: member
   person_id: ocd-person/9877dd5b-c3ee-459f-bb8d-d9d954ae343c
+other_names:
+- name: House State Government
+- name: Committee on State Government
+- name: House Committee on State Government
+- name: State Government Committee
+- name: House State Government Committee
 extras:
   Clerk: Jacqueline Tymes
   Phone: (334) 261-0431

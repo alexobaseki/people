@@ -1,5 +1,6 @@
 id: ocd-organization/aecd4cdb-f596-4c8b-9a2d-548b843427d2
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Local Government Commission
 chamber: lower
@@ -36,3 +37,9 @@ members:
 - name: Tim Kearney
   role: member
   person_id: ocd-person/f9f2479f-0c37-47d1-a4eb-666146e2856f
+other_names:
+- name: House Local Government Commission
+- name: Committee on Local Government Commission
+- name: House Committee on Local Government Commission
+- name: Local Government Commission Committee
+- name: House Local Government Commission Committee

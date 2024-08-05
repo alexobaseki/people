@@ -1,5 +1,6 @@
 id: ocd-organization/c8314237-bcf1-46ee-a38e-176baf1b31ec
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: State Government
 chamber: lower
@@ -83,3 +84,9 @@ members:
 - name: Wendy Fink
   role: member
   person_id: ocd-person/1300735f-1441-4861-b20f-c1fa3e222c08
+other_names:
+- name: House State Government
+- name: Committee on State Government
+- name: House Committee on State Government
+- name: State Government Committee
+- name: House State Government Committee

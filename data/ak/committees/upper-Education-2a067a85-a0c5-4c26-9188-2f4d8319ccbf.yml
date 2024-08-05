@@ -1,5 +1,6 @@
 id: ocd-organization/2a067a85-a0c5-4c26-9188-2f4d8319ccbf
 jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+jurisdiction_abbreviation: ak
 classification: committee
 name: Education
 chamber: upper
@@ -25,3 +26,9 @@ members:
 - name: Jesse Kiehl
   role: member
   person_id: ocd-person/1ae3974e-660d-4526-b351-fff9b689b51a
+other_names:
+- name: Senate Education
+- name: Committee on Education
+- name: Senate Committee on Education
+- name: Education Committee
+- name: Senate Education Committee

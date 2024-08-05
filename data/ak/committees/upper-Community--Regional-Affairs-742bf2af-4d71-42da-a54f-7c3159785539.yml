@@ -1,5 +1,6 @@
 id: ocd-organization/742bf2af-4d71-42da-a54f-7c3159785539
 jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+jurisdiction_abbreviation: ak
 classification: committee
 name: Community and Regional Affairs
 chamber: upper
@@ -25,3 +26,9 @@ members:
 - name: Jesse Bjorkman
   role: member
   person_id: ocd-person/e14b5980-9a38-4420-8903-70738802edf6
+other_names:
+- name: Senate Community and Regional Affairs
+- name: Committee on Community and Regional Affairs
+- name: Senate Committee on Community and Regional Affairs
+- name: Community and Regional Affairs Committee
+- name: Senate Community and Regional Affairs Committee

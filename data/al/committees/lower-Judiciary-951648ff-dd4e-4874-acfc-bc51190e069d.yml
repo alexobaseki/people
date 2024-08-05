@@ -1,5 +1,6 @@
 id: ocd-organization/951648ff-dd4e-4874-acfc-bc51190e069d
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Judiciary
 chamber: lower
@@ -59,6 +60,12 @@ members:
 - name: Shane Stringer
   role: member
   person_id: ocd-person/6a24df4b-b8e2-449a-8f18-d12d15f2bc5b
+other_names:
+- name: House Judiciary
+- name: Committee on Judiciary
+- name: House Committee on Judiciary
+- name: Judiciary Committee
+- name: House Judiciary Committee
 extras:
   Clerk: Brandy Allen
   Phone: (334) 261-0494

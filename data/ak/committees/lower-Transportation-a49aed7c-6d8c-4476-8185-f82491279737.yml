@@ -1,5 +1,6 @@
 id: ocd-organization/a49aed7c-6d8c-4476-8185-f82491279737
 jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+jurisdiction_abbreviation: ak
 classification: committee
 name: Transportation
 chamber: lower
@@ -31,3 +32,9 @@ members:
 - name: Tom McKay
   role: member
   person_id: ocd-person/60762d79-1ddd-4a7b-b385-0f31b0e49670
+other_names:
+- name: House Transportation
+- name: Committee on Transportation
+- name: House Committee on Transportation
+- name: Transportation Committee
+- name: House Transportation Committee

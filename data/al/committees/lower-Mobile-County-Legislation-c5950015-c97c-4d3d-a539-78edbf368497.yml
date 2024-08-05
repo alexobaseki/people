@@ -1,5 +1,6 @@
 id: ocd-organization/c5950015-c97c-4d3d-a539-78edbf368497
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Mobile County Legislation
 chamber: lower
@@ -41,6 +42,12 @@ members:
 - name: Shane Stringer
   role: member
   person_id: ocd-person/6a24df4b-b8e2-449a-8f18-d12d15f2bc5b
+other_names:
+- name: House Mobile County Legislation
+- name: Committee on Mobile County Legislation
+- name: House Committee on Mobile County Legislation
+- name: Mobile County Legislation Committee
+- name: House Mobile County Legislation Committee
 extras:
   Clerk: Teresa Evans
   Phone: (334) 261-0550

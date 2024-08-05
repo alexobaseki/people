@@ -1,5 +1,6 @@
 id: ocd-organization/72f4cb77-3953-4be1-b8f6-c8f9d5300c26
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Boards, Agencies and Commissions
 chamber: lower
@@ -45,3 +46,9 @@ members:
 - name: Steve Hurst
   role: member
   person_id: ocd-person/4f0a4d5d-b27a-4f33-b394-f27d306f8a42
+other_names:
+- name: House Boards, Agencies and Commissions
+- name: Committee on Boards, Agencies and Commissions
+- name: House Committee on Boards, Agencies and Commissions
+- name: Boards, Agencies and Commissions Committee
+- name: House Boards, Agencies and Commissions Committee

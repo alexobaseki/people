@@ -1,5 +1,6 @@
 id: ocd-organization/184229b0-d78d-49d0-acdf-1e6ef03ff74a
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Ethics and Campaign Finance
 chamber: lower
@@ -53,6 +54,12 @@ members:
 - name: Ron Bolton
   role: member
   person_id: ocd-person/b94526a8-1564-43f5-ad38-98b795e95f02
+other_names:
+- name: House Ethics and Campaign Finance
+- name: Committee on Ethics and Campaign Finance
+- name: House Committee on Ethics and Campaign Finance
+- name: Ethics and Campaign Finance Committee
+- name: House Ethics and Campaign Finance Committee
 extras:
   Clerk: Adam Rawlins
   Phone: 334-261-0058

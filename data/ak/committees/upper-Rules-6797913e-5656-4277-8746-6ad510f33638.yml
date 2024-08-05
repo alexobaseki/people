@@ -1,5 +1,6 @@
 id: ocd-organization/6797913e-5656-4277-8746-6ad510f33638
 jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+jurisdiction_abbreviation: ak
 classification: committee
 name: Rules
 chamber: upper
@@ -25,3 +26,9 @@ members:
 - name: Lyman Hoffman
   role: member
   person_id: ocd-person/e187d603-9202-4f64-80b0-6366702aec11
+other_names:
+- name: Senate Rules
+- name: Committee on Rules
+- name: Senate Committee on Rules
+- name: Rules Committee
+- name: Senate Rules Committee

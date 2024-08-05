@@ -1,5 +1,6 @@
 id: ocd-organization/ac3f17ee-4d18-4795-aa12-e869bec622f1
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Government Oversight
 chamber: lower
@@ -42,3 +43,9 @@ members:
 - name: Valerie Gaydos
   role: member
   person_id: ocd-person/590df273-5587-46bd-98dc-f3943cd1ddd8
+other_names:
+- name: House Government Oversight
+- name: Committee on Government Oversight
+- name: House Committee on Government Oversight
+- name: Government Oversight Committee
+- name: House Government Oversight Committee

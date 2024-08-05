@@ -1,5 +1,6 @@
 id: ocd-organization/daec86fc-abcc-45e8-a2c1-7e00c8f8fe97
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Madison County Legislation
 chamber: upper
@@ -25,3 +26,9 @@ members:
 - name: Tim Melson
   role: member
   person_id: ocd-person/2f934a90-dc27-4289-b571-36e80ea4384b
+other_names:
+- name: Senate Madison County Legislation
+- name: Committee on Madison County Legislation
+- name: Senate Committee on Madison County Legislation
+- name: Madison County Legislation Committee
+- name: Senate Madison County Legislation Committee

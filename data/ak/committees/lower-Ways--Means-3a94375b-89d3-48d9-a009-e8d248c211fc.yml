@@ -1,5 +1,6 @@
 id: ocd-organization/3a94375b-89d3-48d9-a009-e8d248c211fc
 jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+jurisdiction_abbreviation: ak
 classification: committee
 name: Ways and Means Special
 chamber: lower
@@ -31,3 +32,9 @@ members:
 - name: Tom McKay
   role: member
   person_id: ocd-person/60762d79-1ddd-4a7b-b385-0f31b0e49670
+other_names:
+- name: House Ways and Means Special
+- name: Committee on Ways and Means Special
+- name: House Committee on Ways and Means Special
+- name: Ways and Means Special Committee
+- name: House Ways and Means Special Committee

@@ -1,5 +1,6 @@
 id: ocd-organization/e349e273-aec6-4152-9e2f-cf04be1cec6b
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Urban and Rural Development
 chamber: lower
@@ -47,6 +48,12 @@ members:
 - name: Sam Jones
   role: member
   person_id: ocd-person/1c825e04-ad1e-4009-a8d8-157abc001f3e
+other_names:
+- name: House Urban and Rural Development
+- name: Committee on Urban and Rural Development
+- name: House Committee on Urban and Rural Development
+- name: Urban and Rural Development Committee
+- name: House Urban and Rural Development Committee
 extras:
   Clerk: Jennifer Stallworth
   Phone: (334) 261-0466

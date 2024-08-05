@@ -1,5 +1,6 @@
 id: ocd-organization/8fa84f1d-6bee-407b-ae19-ae90fdc711c5
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Aging and Youth
 chamber: upper
@@ -49,3 +50,9 @@ members:
 - name: Tracy Pennycuick
   role: member
   person_id: ocd-person/d9ad47a6-7e74-45f2-93a5-1b7e40ad36db
+other_names:
+- name: Senate Aging and Youth
+- name: Committee on Aging and Youth
+- name: Senate Committee on Aging and Youth
+- name: Aging and Youth Committee
+- name: Senate Aging and Youth Committee

@@ -1,5 +1,6 @@
 id: ocd-organization/3785c106-ea78-48f4-ab4f-412af1cd2043
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Judiciary
 chamber: upper
@@ -53,6 +54,12 @@ members:
 - name: Vivian Figures
   role: member
   person_id: ocd-person/63d0a35f-ec68-48e2-be94-d5e3cb60b3c3
+other_names:
+- name: Senate Judiciary
+- name: Committee on Judiciary
+- name: Senate Committee on Judiciary
+- name: Judiciary Committee
+- name: Senate Judiciary Committee
 extras:
   Clerk: Kim Robertson
   Phone: 334 261-0893

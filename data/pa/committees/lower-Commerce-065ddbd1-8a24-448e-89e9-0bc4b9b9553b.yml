@@ -1,5 +1,6 @@
 id: ocd-organization/065ddbd1-8a24-448e-89e9-0bc4b9b9553b
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Commerce
 chamber: lower
@@ -91,3 +92,9 @@ members:
 - name: Valerie Gaydos
   role: member
   person_id: ocd-person/590df273-5587-46bd-98dc-f3943cd1ddd8
+other_names:
+- name: House Commerce
+- name: Committee on Commerce
+- name: House Committee on Commerce
+- name: Commerce Committee
+- name: House Commerce Committee

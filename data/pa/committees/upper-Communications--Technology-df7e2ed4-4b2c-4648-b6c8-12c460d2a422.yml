@@ -1,5 +1,6 @@
 id: ocd-organization/df7e2ed4-4b2c-4648-b6c8-12c460d2a422
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Communications and Technology
 chamber: upper
@@ -49,3 +50,9 @@ members:
 - name: Sharif Street
   role: member
   person_id: ocd-person/b0d20b05-428a-4e3a-bda1-bbba5c3cfd6a
+other_names:
+- name: Senate Communications and Technology
+- name: Committee on Communications and Technology
+- name: Senate Committee on Communications and Technology
+- name: Communications and Technology Committee
+- name: Senate Communications and Technology Committee

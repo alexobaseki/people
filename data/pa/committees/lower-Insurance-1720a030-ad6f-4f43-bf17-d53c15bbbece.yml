@@ -1,5 +1,6 @@
 id: ocd-organization/1720a030-ad6f-4f43-bf17-d53c15bbbece
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Insurance
 chamber: lower
@@ -90,3 +91,9 @@ members:
 - name: Wendy Fink
   role: member
   person_id: ocd-person/1300735f-1441-4861-b20f-c1fa3e222c08
+other_names:
+- name: House Insurance
+- name: Committee on Insurance
+- name: House Committee on Insurance
+- name: Insurance Committee
+- name: House Insurance Committee

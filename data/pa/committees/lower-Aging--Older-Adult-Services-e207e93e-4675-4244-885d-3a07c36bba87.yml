@@ -1,5 +1,6 @@
 id: ocd-organization/e207e93e-4675-4244-885d-3a07c36bba87
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Aging and Older Adult Services
 chamber: lower
@@ -90,3 +91,9 @@ members:
 - name: Tarik Khan
   role: member
   person_id: ocd-person/6fa30029-d933-4f6d-b0fb-343a0c82772c
+other_names:
+- name: House Aging and Older Adult Services
+- name: Committee on Aging and Older Adult Services
+- name: House Committee on Aging and Older Adult Services
+- name: Aging and Older Adult Services Committee
+- name: House Aging and Older Adult Services Committee

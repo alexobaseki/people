@@ -1,5 +1,6 @@
 id: ocd-organization/17b102cc-1657-4a6e-89f2-121736b14de6
 jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+jurisdiction_abbreviation: ak
 classification: committee
 name: Rules
 chamber: lower
@@ -31,3 +32,9 @@ members:
 - name: Zack Fields
   role: member
   person_id: ocd-person/c1d170a4-d099-43cb-b7e5-5a9db63ae716
+other_names:
+- name: House Rules
+- name: Committee on Rules
+- name: House Committee on Rules
+- name: Rules Committee
+- name: House Rules Committee

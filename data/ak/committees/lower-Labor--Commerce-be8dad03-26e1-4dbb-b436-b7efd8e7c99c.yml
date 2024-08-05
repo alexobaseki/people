@@ -1,5 +1,6 @@
 id: ocd-organization/be8dad03-26e1-4dbb-b436-b7efd8e7c99c
 jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+jurisdiction_abbreviation: ak
 classification: committee
 name: Labor and Commerce
 chamber: lower
@@ -31,3 +32,9 @@ members:
 - name: Zack Fields
   role: member
   person_id: ocd-person/c1d170a4-d099-43cb-b7e5-5a9db63ae716
+other_names:
+- name: House Labor and Commerce
+- name: Committee on Labor and Commerce
+- name: House Committee on Labor and Commerce
+- name: Labor and Commerce Committee
+- name: House Labor and Commerce Committee

@@ -1,5 +1,6 @@
 id: ocd-organization/c863c6ff-d3b0-4dc0-a3b9-6d5ef9c7ef16
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Commerce and Small Business
 chamber: lower
@@ -50,6 +51,12 @@ members:
 - name: Troy Stubbs
   role: member
   person_id: ocd-person/82715f9c-12a1-4e99-8020-a47b37dfa92b
+other_names:
+- name: House Commerce and Small Business
+- name: Committee on Commerce and Small Business
+- name: House Committee on Commerce and Small Business
+- name: Commerce and Small Business Committee
+- name: House Commerce and Small Business Committee
 extras:
   Clerk: Mary Ruth Davis
   Phone: (334) 261-0478

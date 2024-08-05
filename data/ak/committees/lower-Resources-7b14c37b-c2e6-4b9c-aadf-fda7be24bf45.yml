@@ -1,5 +1,6 @@
 id: ocd-organization/7b14c37b-c2e6-4b9c-aadf-fda7be24bf45
 jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+jurisdiction_abbreviation: ak
 classification: committee
 name: Resources
 chamber: lower
@@ -37,3 +38,9 @@ members:
 - name: Thomas Baker
   role: member
   person_id: ocd-person/08482886-6b5c-4890-9dae-36ab92946eb7
+other_names:
+- name: House Resources
+- name: Committee on Resources
+- name: House Committee on Resources
+- name: Resources Committee
+- name: House Resources Committee

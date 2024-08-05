@@ -1,5 +1,6 @@
 id: ocd-organization/f85a459a-dc6e-499d-88cc-9577b2fced69
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Finance and Taxation Education
 chamber: upper
@@ -62,6 +63,12 @@ members:
 - name: Vivian Figures
   role: member
   person_id: ocd-person/63d0a35f-ec68-48e2-be94-d5e3cb60b3c3
+other_names:
+- name: Senate Finance and Taxation Education
+- name: Committee on Finance and Taxation Education
+- name: Senate Committee on Finance and Taxation Education
+- name: Finance and Taxation Education Committee
+- name: Senate Finance and Taxation Education Committee
 extras:
   Clerk: Dalton Doyle
   Phone: 334 261-0758

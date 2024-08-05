@@ -1,5 +1,6 @@
 id: ocd-organization/511fd974-e34e-4480-9fa5-21b8c1b5e916
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Game and Fisheries
 chamber: upper
@@ -49,3 +50,9 @@ members:
 - name: Scott Martin
   role: member
   person_id: ocd-person/c2fcd2dc-22f8-4ec2-b70a-439bc6d60802
+other_names:
+- name: Senate Game and Fisheries
+- name: Committee on Game and Fisheries
+- name: Senate Committee on Game and Fisheries
+- name: Game and Fisheries Committee
+- name: Senate Game and Fisheries Committee

@@ -1,5 +1,6 @@
 id: ocd-organization/f07a0a81-c1b9-447b-a27a-4b15dae92c9d
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Transportation and Energy
 chamber: upper
@@ -49,3 +50,9 @@ members:
 - name: Will Barfoot
   role: member
   person_id: ocd-person/8cca1495-936e-4ac5-920a-cc4aa22e495e
+other_names:
+- name: Senate Transportation and Energy
+- name: Committee on Transportation and Energy
+- name: Senate Committee on Transportation and Energy
+- name: Transportation and Energy Committee
+- name: Senate Transportation and Energy Committee

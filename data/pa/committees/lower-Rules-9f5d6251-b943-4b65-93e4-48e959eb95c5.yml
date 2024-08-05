@@ -1,5 +1,6 @@
 id: ocd-organization/9f5d6251-b943-4b65-93e4-48e959eb95c5
 jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+jurisdiction_abbreviation: pa
 classification: committee
 name: Rules
 chamber: lower
@@ -111,3 +112,9 @@ members:
 - name: Tina Pickett
   role: member
   person_id: ocd-person/8e174923-d514-4240-b6cd-cbb7927410ba
+other_names:
+- name: House Rules
+- name: Committee on Rules
+- name: House Committee on Rules
+- name: Rules Committee
+- name: House Rules Committee

@@ -1,5 +1,6 @@
 id: ocd-organization/9c321da1-864e-4fe7-8caf-fc9e2df1dc3e
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Mobile County Legislation
 chamber: upper
@@ -24,3 +25,9 @@ members:
 - name: Vivian Figures
   role: member
   person_id: ocd-person/63d0a35f-ec68-48e2-be94-d5e3cb60b3c3
+other_names:
+- name: Senate Mobile County Legislation
+- name: Committee on Mobile County Legislation
+- name: Senate Committee on Mobile County Legislation
+- name: Mobile County Legislation Committee
+- name: Senate Mobile County Legislation Committee

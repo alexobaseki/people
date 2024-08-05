@@ -1,5 +1,6 @@
 id: ocd-organization/91eb8e2f-572f-49ef-86a6-a90abef229f2
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: County and Municipal Government
 chamber: upper
@@ -42,3 +43,9 @@ members:
 - name: Merika Coleman
   role: member
   person_id: ocd-person/764f926b-598f-458e-84c4-5cc13c2302e5
+other_names:
+- name: Senate County and Municipal Government
+- name: Committee on County and Municipal Government
+- name: Senate Committee on County and Municipal Government
+- name: County and Municipal Government Committee
+- name: Senate County and Municipal Government Committee

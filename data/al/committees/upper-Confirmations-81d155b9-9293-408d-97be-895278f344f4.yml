@@ -1,5 +1,6 @@
 id: ocd-organization/81d155b9-9293-408d-97be-895278f344f4
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Confirmations
 chamber: upper
@@ -62,6 +63,12 @@ members:
 - name: Vivian Figures
   role: member
   person_id: ocd-person/63d0a35f-ec68-48e2-be94-d5e3cb60b3c3
+other_names:
+- name: Senate Confirmations
+- name: Committee on Confirmations
+- name: Senate Committee on Confirmations
+- name: Confirmations Committee
+- name: Senate Confirmations Committee
 extras:
   Clerk: Gail Cobb
   Phone: 334 261-0872

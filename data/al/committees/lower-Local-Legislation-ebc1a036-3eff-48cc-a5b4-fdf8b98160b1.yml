@@ -1,5 +1,6 @@
 id: ocd-organization/ebc1a036-3eff-48cc-a5b4-fdf8b98160b1
 jurisdiction: ocd-jurisdiction/country:us/state:al/government
+jurisdiction_abbreviation: al
 classification: committee
 name: Local Legislation
 chamber: lower
@@ -59,6 +60,12 @@ members:
 - name: Tim Wadsworth
   role: member
   person_id: ocd-person/04f7bd8e-094b-433c-9e91-7ebe64c75604
+other_names:
+- name: House Local Legislation
+- name: Committee on Local Legislation
+- name: House Committee on Local Legislation
+- name: Local Legislation Committee
+- name: House Local Legislation Committee
 extras:
   Clerk: Jennifer Stallworth
   Phone: (334) 261-0466

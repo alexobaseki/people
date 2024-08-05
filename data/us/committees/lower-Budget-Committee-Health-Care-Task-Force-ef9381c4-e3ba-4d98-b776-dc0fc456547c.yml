@@ -1,0 +1,31 @@
+id: ocd-organization/ef9381c4-e3ba-4d98-b776-dc0fc456547c
+jurisdiction: ocd-jurisdiction/country:us/government
+classification: subcommittee
+name: Budget Committee Health Care Task Force
+chamber: lower
+parent: ocd-organization/c9d6f979-7b13-5541-b8cd-58eab4eb60ed
+members:
+- name: Michael Burgess
+  role: chair
+  person_id: ocd-person/e40d8398-4cca-57bb-a8cc-8376230801d4
+- name: Jodey Arrington
+  role: ex officio
+  person_id: ocd-person/4938e6be-7c14-536d-a559-91c74fcc17db
+- name: Blake Moore
+  role: member
+  person_id: ocd-person/3854aa11-1cec-58f6-8e90-c721a0db3525
+- name: Buddy Carter
+  role: member
+  person_id: ocd-person/85e43f57-4901-52fd-9fad-57373277f5e1
+- name: Drew Ferguson
+  role: member
+  person_id: ocd-person/cf441c62-91b4-52f5-b9c7-04a45290e5e4
+- name: Greg Lopez
+  role: member
+  person_id: ocd-person/b513aafd-8615-53db-910f-b0d3e4c0dec6
+- name: Lloyd Smucker
+  role: member
+  person_id: ocd-person/0f2326f2-b5dc-5428-bcaa-9a1078d0750c
+- name: Rudy Yakym
+  role: member
+  person_id: ocd-person/bf37099b-56fe-54fe-acc1-a6d79a0107d1

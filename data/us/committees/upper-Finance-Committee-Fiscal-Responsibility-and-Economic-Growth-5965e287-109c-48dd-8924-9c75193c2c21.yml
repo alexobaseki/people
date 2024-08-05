@@ -1,0 +1,18 @@
+id: ocd-organization/5965e287-109c-48dd-8924-9c75193c2c21
+jurisdiction: ocd-jurisdiction/country:us/government
+classification: subcommittee
+name: Finance Committee Fiscal Responsibility and Economic Growth
+chamber: upper
+members:
+- name: Maggie Hassan
+  role: chair
+  person_id: ocd-person/c59c2d02-3a1e-55a7-b1eb-638a902899d5
+- name: Mike Crapo
+  role: ex officio
+  person_id: ocd-person/9243a3a9-4e91-5fc8-9643-ae46455b688b
+- name: Chuck Grassley
+  role: ranking member
+  person_id: ocd-person/259d896b-e9b5-5237-9243-f5597ae0db7c
+- name: Ron Wyden
+  role: member
+  person_id: ocd-person/7b0a82d1-eb2f-53a3-8352-de8b64d41060

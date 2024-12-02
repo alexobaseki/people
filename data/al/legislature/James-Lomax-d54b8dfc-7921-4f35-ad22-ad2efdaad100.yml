@@ -15,7 +15,7 @@ roles:
 offices:
 - classification: capitol
   address: 11 S. Union St., Montgomery, AL 36130
-- classification: district
+- classification: district-mail
   address: P.O. Box 875, Huntsville, AL 35804
   voice: 256-503-6088
 links:

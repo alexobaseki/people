@@ -16,7 +16,7 @@ offices:
 - classification: capitol
   address: Room 428, 11 S. Union St., Montgomery, AL 36130
   voice: 334-261-0522
-- classification: district
+- classification: district-mail
   address: P.O. Box 18711, Huntsville, AL 35801
 links:
 - url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100534&OID_PERSON=7711

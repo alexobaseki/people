@@ -16,7 +16,7 @@ offices:
 - classification: capitol
   address: Room 517-F, 11 S. Union St., Montgomery, AL 36130
   voice: 334-261-0592
-- classification: district
+- classification: district-mail
   address: P.O. Box 4085, Anniston, AL 36204
   voice: 256-741-8683
 links:

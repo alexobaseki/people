@@ -17,7 +17,7 @@ offices:
 - classification: capitol
   address: Room 401 F, 11 S. Union St., Montgomery, AL 36130
   voice: 334-261-0530
-- classification: district
+- classification: district-mail
   address: P.O. Box 345, Baileyton, AL 35019
   voice: 256-531-6641
 links:

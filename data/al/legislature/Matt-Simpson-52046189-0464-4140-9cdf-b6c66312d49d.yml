@@ -16,7 +16,7 @@ offices:
 - classification: capitol
   address: Room 524-C, 11 S. Union St., Montgomery, AL 36130
   voice: 334-261-0424
-- classification: district
+- classification: district-mail
   address: P.O. Box 1791, Daphne, AL 36526
 links:
 - url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100578&OID_PERSON=8514

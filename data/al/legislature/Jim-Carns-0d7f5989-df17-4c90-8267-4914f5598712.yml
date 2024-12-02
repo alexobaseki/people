@@ -17,7 +17,7 @@ offices:
 - classification: capitol
   address: Room 403-A, 11 S. Union St., Montgomery, AL 36130
   voice: 334-261-0429
-- classification: district
+- classification: district-mail
   address: P.O. Box 43797, Birmingham, AL 35243
   voice: 205-967-3571
 links:

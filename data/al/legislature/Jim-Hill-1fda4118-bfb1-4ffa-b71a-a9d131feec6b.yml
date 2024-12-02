@@ -17,7 +17,7 @@ offices:
 - classification: capitol
   address: Room 419, 11 S. Union St., Montgomery, AL 36130
   voice: 334-261-0494
-- classification: district
+- classification: district-mail
   address: P.O. Box 310, Moody, AL 35004
   voice: 205-629-5325
 links:

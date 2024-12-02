@@ -15,7 +15,7 @@ offices:
 - classification: capitol
   address: Room 539-F, 11 S. Union St., Montgomery, AL 36130
   voice: 334-261-0547
-- classification: district
+- classification: district-mail
   address: P.O. Box 1469, Livingston, AL 35470
   voice: 334-652-6531
 links:

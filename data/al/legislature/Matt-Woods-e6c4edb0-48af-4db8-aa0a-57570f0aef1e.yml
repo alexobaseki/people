@@ -15,7 +15,7 @@ roles:
 offices:
 - classification: capitol
   address: 11 S. Union St., Montgomery, AL 36130
-- classification: district
+- classification: district-mail
   address: P.O. Box 1627, Jasper, AL 35502
   voice: 334-261-0495
 links:

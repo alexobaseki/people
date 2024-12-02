@@ -17,7 +17,7 @@ offices:
 - classification: capitol
   address: Room 427-A, 11 S. Union St., Montgomery, AL 36130
   voice: 334-261-0472
-- classification: district
+- classification: district-mail
   address: P.O. Box 21, Decatur, AL 35602
   voice: 256-227-0360
 links:

@@ -15,7 +15,7 @@ roles:
 offices:
 - classification: capitol
   address: 11 S. Union St., Montgomery, AL 36130
-- classification: district
+- classification: district-mail
   address: P.O. Box 826, Loxley, AL 36551
   voice: 251-952-2210
 links:

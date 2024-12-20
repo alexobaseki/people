@@ -13,9 +13,6 @@ links:
   note: homepage
 - url: https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=AGR&year=2024
 members:
-- name: Cedric Gates
-  role: chair
-  person_id: ocd-person/12fb4131-d77f-4053-9319-204d396f433b
 - name: Kirstin Kahaloa
   role: vice chair
   person_id: ocd-person/b6d9dda7-d2e1-443e-a19b-ee44ed891cad

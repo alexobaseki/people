@@ -32,7 +32,6 @@ members:
   person_id: ocd-person/96f29b7f-bd5a-4a83-8ed0-7a5c6d3c6036
 - name: Sarah McBride
   role: member
-  person_id: ocd-person/26a4ec3d-4193-47f0-afe3-207e4a15210d
 - name: Stephanie Hansen
   role: member
   person_id: ocd-person/24e001be-be7a-4110-8488-2e385315ff5b

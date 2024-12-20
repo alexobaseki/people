@@ -21,12 +21,6 @@ members:
 - name: Danny Verdin
   role: member
   person_id: ocd-person/0ed8d824-c5b2-47c6-9970-2c475cbfd9ac
-- name: Dick Harpootlian
-  role: member
-  person_id: ocd-person/26d51af3-b5c2-4869-be73-0ea9c2fa2a22
-- name: Gerald Malloy
-  role: member
-  person_id: ocd-person/2b3fc123-0a9b-4324-b406-1421260f7ee6
 - name: Greg Hembree
   role: member
   person_id: ocd-person/d09cb270-bb44-44e7-86d6-a880ce40d93d
@@ -39,27 +33,15 @@ members:
 - name: Margie Bright Matthews
   role: member
   person_id: ocd-person/829bd3ab-d117-43fd-b274-f9ff8177c789
-- name: Mia McLeod
-  role: member
-  person_id: ocd-person/9b4e7cb9-4e4e-484d-8ce9-4fe4a73b8c59
 - name: Rex Rice
   role: member
   person_id: ocd-person/bfea6436-5d17-4d26-bc37-15f1a975575e
 - name: Richard Cash
   role: member
   person_id: ocd-person/69162972-6151-4fe2-b5fe-dee599d86ad3
-- name: Sandy Senn
-  role: member
-  person_id: ocd-person/9bd3d162-efdd-4c99-8cdd-cccd2ad40baa
 - name: Sean Bennett
   role: member
   person_id: ocd-person/3265c6c1-e300-4fd3-9d61-1cef57279d67
-- name: Thomas McElveen
-  role: member
-  person_id: ocd-person/f4d5a02c-1b98-4fd1-9db4-35b1b8a79d18
-- name: Vernon Stephens
-  role: member
-  person_id: ocd-person/291bed1b-d11e-449d-88d2-25e0ef04ea3c
 - name: Wes Climer
   role: member
   person_id: ocd-person/cccdb27c-0ed3-4d26-b2e1-5dd7c94e79ab

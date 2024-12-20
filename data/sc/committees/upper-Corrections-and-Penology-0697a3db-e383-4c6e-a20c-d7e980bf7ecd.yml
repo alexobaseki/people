@@ -30,39 +30,21 @@ members:
 - name: Karl Allen
   role: member
   person_id: ocd-person/946afea5-c89c-4a8f-a80e-a841bf7e899a
-- name: Katrina Shealy
-  role: member
-  person_id: ocd-person/0a07f819-4966-4b86-8e1f-d6b66b447460
-- name: Mia McLeod
-  role: member
-  person_id: ocd-person/9b4e7cb9-4e4e-484d-8ce9-4fe4a73b8c59
 - name: Michael Johnson
   role: member
   person_id: ocd-person/ef901990-e178-4836-b40c-1b5822227650
-- name: Mike Fanning
-  role: member
-  person_id: ocd-person/46099016-9fd8-442b-a9fe-ed58055f7672
 - name: Mike Reichenbach
   role: member
   person_id: ocd-person/c2a237ba-67b6-4280-9cf2-430f1d10d28e
-- name: Penry Gustafson
-  role: member
-  person_id: ocd-person/f6e15a17-0043-49a3-a74d-8a3ba75977f0
 - name: Rex Rice
   role: member
   person_id: ocd-person/bfea6436-5d17-4d26-bc37-15f1a975575e
 - name: Ross Turner
   role: member
   person_id: ocd-person/bf0e5259-d4e3-472c-a3a0-384eab1e8ae2
-- name: Sandy Senn
-  role: member
-  person_id: ocd-person/9bd3d162-efdd-4c99-8cdd-cccd2ad40baa
 - name: Tameika Isaac Devine
   role: member
   person_id: ocd-person/51410bac-c642-4cd8-9935-dd87b16a6972
-- name: Vernon Stephens
-  role: member
-  person_id: ocd-person/291bed1b-d11e-449d-88d2-25e0ef04ea3c
 other_names:
 - name: Committee on Corrections and Penology
 - name: Corrections and Penology Committee

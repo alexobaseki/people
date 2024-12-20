@@ -13,9 +13,6 @@ links:
 - url: https://www.scstatehouse.gov/CommitteeInfo/houserules.php
   note: homepage
 members:
-- name: Anne Thayer
-  role: chair
-  person_id: ocd-person/6b6644b8-f861-4969-be50-9844287b4a60
 - name: Cal Forrest
   role: vice chair
   person_id: ocd-person/bbff9a4c-7b59-4538-b869-64ba0c8431ff
@@ -37,9 +34,6 @@ members:
 - name: Don Chapman
   role: member
   person_id: ocd-person/7a7a6119-3a67-4b02-9313-d8454421494e
-- name: Ivory Thigpen
-  role: member
-  person_id: ocd-person/13c06705-600b-49d0-a5a0-393668a03e73
 - name: Kathy Landing
   role: member
   person_id: ocd-person/07274f31-3348-491d-af78-4eefad9d39c8
@@ -49,9 +43,6 @@ members:
 - name: Lucas Atkinson
   role: member
   person_id: ocd-person/e3d0a679-af6a-4861-aac2-be366fda3210
-- name: Pat Henegan
-  role: member
-  person_id: ocd-person/951188b7-b57f-4705-b966-a24c806fef62
 - name: Phillip Lowe
   role: member
   person_id: ocd-person/92bc68c6-b20b-4eec-a315-b0d5495db8ec

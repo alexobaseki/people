@@ -30,18 +30,12 @@ members:
 - name: Kent Williams
   role: member
   person_id: ocd-person/0fdf2e22-badf-4b5c-be34-969781dc40a3
-- name: Mike Fanning
-  role: member
-  person_id: ocd-person/46099016-9fd8-442b-a9fe-ed58055f7672
 - name: Mike Reichenbach
   role: member
   person_id: ocd-person/c2a237ba-67b6-4280-9cf2-430f1d10d28e
 - name: Ronnie Cromer
   role: member
   person_id: ocd-person/a8c8738a-88f3-4a32-a61e-96004425b2c3
-- name: Scott Talley
-  role: member
-  person_id: ocd-person/51171d8d-a51b-4684-8e45-a88ad5250314
 - name: Sean Bennett
   role: member
   person_id: ocd-person/3265c6c1-e300-4fd3-9d61-1cef57279d67
@@ -51,9 +45,6 @@ members:
 - name: Tameika Isaac Devine
   role: member
   person_id: ocd-person/51410bac-c642-4cd8-9935-dd87b16a6972
-- name: Thomas McElveen
-  role: member
-  person_id: ocd-person/f4d5a02c-1b98-4fd1-9db4-35b1b8a79d18
 - name: Tom Corbin
   role: member
   person_id: ocd-person/25450820-f565-4644-95aa-885948c253c3

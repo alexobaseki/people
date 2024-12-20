@@ -24,7 +24,6 @@ members:
   person_id: ocd-person/975453b1-113a-40e9-8036-53e714a47b66
 - name: John Mannion
   role: member
-  person_id: ocd-person/fcfe534b-e6d4-4066-83c0-6d0d617aab82
 - name: Jose Serrano
   role: member
   person_id: ocd-person/31d058e9-909a-46b5-8e66-21a3e86b5a56

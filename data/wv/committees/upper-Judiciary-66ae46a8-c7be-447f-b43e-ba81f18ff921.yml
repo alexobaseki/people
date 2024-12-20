@@ -19,12 +19,6 @@ members:
 - name: Bill Hamilton
   role: member
   person_id: ocd-person/8bd21671-34c1-4ba3-aced-0dcaa110029c
-- name: Bugs Stover
-  role: member
-  person_id: ocd-person/7a16536b-bf43-4b38-a7df-7aee402754a5
-- name: Chandler Swope
-  role: member
-  person_id: ocd-person/ee4376b1-df2e-4d56-867b-b8585de9b441
 - name: Jason Barrett
   role: member
   person_id: ocd-person/bcbe03de-3df0-4c07-8973-0304dafa2cb8
@@ -40,9 +34,6 @@ members:
 - name: Mike Azinger
   role: member
   person_id: ocd-person/8fe81e26-b0ce-4349-a3e3-91d25247b980
-- name: Mike Caputo
-  role: member
-  person_id: ocd-person/1fb783cd-eb4b-4afd-90f8-8e69f79e3eb5
 - name: Mike Stuart
   role: member
   person_id: ocd-person/9237b2d2-52dd-4e7c-98e0-6c5a346356f6

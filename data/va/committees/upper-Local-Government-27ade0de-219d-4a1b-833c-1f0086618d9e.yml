@@ -34,7 +34,6 @@ members:
   person_id: ocd-person/815f7b31-d344-481a-9922-ad77d16b808a
 - name: John McGuire
   role: member
-  person_id: ocd-person/0dd787e8-c62a-46a9-aa0e-915f574e75d2
 - name: Lamont Bagby
   role: member
   person_id: ocd-person/fa49c701-d235-4f56-b9af-b772dec36d02
@@ -47,9 +46,6 @@ members:
 - name: Stella Pekarsky
   role: member
   person_id: ocd-person/138f964d-7137-487b-96d6-ad836b67db83
-- name: Suhas Subramanyam
-  role: member
-  person_id: ocd-person/d2a28b1a-6991-4b0b-b582-0414025b7389
 - name: Tara Durant
   role: member
   person_id: ocd-person/e142c869-a7a9-411a-8d73-563403f6ddd4

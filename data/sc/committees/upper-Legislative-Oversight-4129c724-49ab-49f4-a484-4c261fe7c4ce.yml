@@ -24,18 +24,9 @@ members:
 - name: Darrell Jackson
   role: member
   person_id: ocd-person/4eca904a-5153-440d-8e5c-4c9e056a1dd1
-- name: Gerald Malloy
-  role: member
-  person_id: ocd-person/2b3fc123-0a9b-4324-b406-1421260f7ee6
 - name: Kent Williams
   role: member
   person_id: ocd-person/0fdf2e22-badf-4b5c-be34-969781dc40a3
-- name: Nikki Setzler
-  role: member
-  person_id: ocd-person/e93ca357-56f3-453f-aacc-fdeb0f8a77e8
-- name: Scott Talley
-  role: member
-  person_id: ocd-person/51171d8d-a51b-4684-8e45-a88ad5250314
 - name: Shane Massey
   role: member
   person_id: ocd-person/340b7b78-4f07-49ef-8872-dab35cf48c5c

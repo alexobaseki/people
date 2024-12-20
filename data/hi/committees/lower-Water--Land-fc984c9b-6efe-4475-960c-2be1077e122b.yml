@@ -34,12 +34,6 @@ members:
 - name: Mark Hashem
   role: member
   person_id: ocd-person/f2d1de1a-c206-46f7-8c5f-a6193229642f
-- name: May Mizuno
-  role: member
-  person_id: ocd-person/cf7f012e-34ad-467b-8710-c85705acb67b
-- name: Sonny Ganaden
-  role: member
-  person_id: ocd-person/43f4f67b-6130-4186-878d-6767b612c967
 other_names:
 - name: House Committee on Water and Land
 - name: House Water and Land

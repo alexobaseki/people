@@ -28,9 +28,6 @@ members:
 - name: Chris Hart
   role: member
   person_id: ocd-person/f9925f2e-d43e-47ff-ba74-f670b65d96e7
-- name: David O'Neal
-  role: member
-  person_id: ocd-person/016ba21f-2b57-4d94-885c-0fca0465728e
 - name: Fawn Pedalino
   role: member
   person_id: ocd-person/5861846a-d293-416f-b5ab-227f8fd12b94

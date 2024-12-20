@@ -37,7 +37,6 @@ members:
   person_id: ocd-person/32dae8e8-9901-4705-b012-f8ce186f8403
 - name: John McGuire
   role: member
-  person_id: ocd-person/0dd787e8-c62a-46a9-aa0e-915f574e75d2
 - name: Russet Perry
   role: member
   person_id: ocd-person/bf0211bf-d8ac-4343-bcd8-181e2d2e58a6

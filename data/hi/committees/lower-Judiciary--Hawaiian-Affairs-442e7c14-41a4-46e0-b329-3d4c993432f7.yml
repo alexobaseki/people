@@ -37,9 +37,6 @@ members:
 - name: Sam Kong
   role: member
   person_id: ocd-person/cbf4fe33-42cf-41c2-b689-5e4c0ff150f6
-- name: Sonny Ganaden
-  role: member
-  person_id: ocd-person/43f4f67b-6130-4186-878d-6767b612c967
 - name: Tyson Miyake
   role: member
   person_id: ocd-person/6fb71afb-6ce8-4f21-ad16-a7255ca2bfec

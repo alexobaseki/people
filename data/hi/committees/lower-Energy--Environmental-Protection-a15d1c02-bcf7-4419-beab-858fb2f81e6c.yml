@@ -22,9 +22,6 @@ members:
 - name: Amy Perruso
   role: member
   person_id: ocd-person/cb860f85-2006-4d5b-b1a8-1c56c1def2d7
-- name: Cedric Gates
-  role: member
-  person_id: ocd-person/12fb4131-d77f-4053-9319-204d396f433b
 - name: Gene Ward
   role: member
   person_id: ocd-person/95146956-5701-4883-a355-ca234b817686

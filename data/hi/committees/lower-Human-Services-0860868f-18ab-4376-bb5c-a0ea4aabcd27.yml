@@ -19,9 +19,6 @@ members:
 - name: Terez Amato
   role: vice chair
   person_id: ocd-person/3c16b940-790f-43f2-946d-998b6177dc5a
-- name: Bert Kobayashi
-  role: member
-  person_id: ocd-person/05b3f451-01f6-4c0c-a01c-1bb379a80462
 - name: Della Belatti
   role: member
   person_id: ocd-person/b3a0c91b-d6fd-4a54-9a34-2ba48cc53984
@@ -34,9 +31,6 @@ members:
 - name: Jenna Takenouchi
   role: member
   person_id: ocd-person/928645f2-46ed-4153-ab60-5b7a8250dab3
-- name: Scott Nishimoto
-  role: member
-  person_id: ocd-person/ede18c33-14a4-4481-bd24-78b8ddedcfa4
 other_names:
 - name: House Committee on Human Services
 - name: House Human Services

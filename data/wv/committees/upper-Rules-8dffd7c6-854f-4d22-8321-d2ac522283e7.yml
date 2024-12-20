@@ -10,9 +10,6 @@ links:
 - url: https://www.wvlegislature.gov/committees/senate/SenateCommittee.cfm?Chart=rul
   note: homepage
 members:
-- name: Craig Blair
-  role: chair
-  person_id: ocd-person/c54a9a2b-0e66-41e3-b977-4bc4904e3642
 - name: Tom Takubo
   role: vice-chair
   person_id: ocd-person/c6a91d2b-9230-4d3e-a3d0-c3844ad9e985

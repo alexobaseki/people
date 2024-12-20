@@ -29,7 +29,6 @@ members:
   person_id: ocd-person/eee736fd-ee29-403a-9bbc-713961c734b7
 - name: Sarah McBride
   role: member
-  person_id: ocd-person/26a4ec3d-4193-47f0-afe3-207e4a15210d
 - name: Tizzy Lockman
   role: member
   person_id: ocd-person/ca88dc3b-bbc6-4eb8-af32-9821268ebda5

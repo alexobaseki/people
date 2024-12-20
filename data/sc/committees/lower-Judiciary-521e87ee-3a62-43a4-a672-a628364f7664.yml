@@ -22,9 +22,6 @@ members:
 - name: John King
   role: second vice chair
   person_id: ocd-person/12f4e61d-b847-4a7d-8029-613580ebfd9f
-- name: Ben Connell
-  role: member
-  person_id: ocd-person/7285606e-c2ea-4812-aab0-4d8bf497cd24
 - name: Beth Bernstein
   role: member
   person_id: ocd-person/a45d8c37-372d-4d32-b9a5-cce96299ea3d
@@ -43,9 +40,6 @@ members:
 - name: Cody Mitchell
   role: member
   person_id: ocd-person/16726551-937d-43ca-a13b-c94c608d1ba3
-- name: Ivory Thigpen
-  role: member
-  person_id: ocd-person/13c06705-600b-49d0-a5a0-393668a03e73
 - name: Jason Elliott
   role: member
   person_id: ocd-person/3d40ff3f-ddbf-4611-a366-9be7d55b9247
@@ -61,9 +55,6 @@ members:
 - name: Matt Leber
   role: member
   person_id: ocd-person/1bf0b19d-9fa1-474a-99f2-16e7835064cf
-- name: Pat Henegan
-  role: member
-  person_id: ocd-person/951188b7-b57f-4705-b966-a24c806fef62
 - name: Robby Robbins
   role: member
   person_id: ocd-person/ea7da5ce-c132-44b0-8b3c-33745f9d3e4b

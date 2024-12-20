@@ -18,9 +18,6 @@ members:
 - name: J.A. Moore
   role: first vice chair
   person_id: ocd-person/6f92ad6a-95c7-4e74-aa91-05fd5448c99a
-- name: Stewart Jones
-  role: second vice chair
-  person_id: ocd-person/d62a848e-7a5b-48ae-8546-2e4003b95bdd
 - name: Daniel Gibson
   role: member
   person_id: ocd-person/fd827c3d-df23-4497-b39e-7c7ab43138fd

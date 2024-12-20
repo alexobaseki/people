@@ -39,7 +39,6 @@ members:
   person_id: ocd-person/eee14916-d196-4857-a64a-b6e952db7a53
 - name: John Mannion
   role: member
-  person_id: ocd-person/fcfe534b-e6d4-4066-83c0-6d0d617aab82
 - name: Monica Martinez
   role: member
   person_id: ocd-person/622242c6-d42c-4557-b9ab-29ca87e6d141

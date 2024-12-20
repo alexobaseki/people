@@ -31,15 +31,9 @@ members:
 - name: Heath Sessions
   role: member
   person_id: ocd-person/dbc0a5ad-b105-4cd9-8849-e2a7c77d23f0
-- name: Max Hyde
-  role: member
-  person_id: ocd-person/f17c0073-e7c8-4482-bd40-0703fc296f2b
 - name: Mike Burns
   role: member
   person_id: ocd-person/6ffe4e57-021a-4424-bc36-b933c8e18477
-- name: Raye Felder
-  role: member
-  person_id: ocd-person/dafa79f2-1f22-4fb4-9620-09d86ecddcb7
 - name: Ryan McCabe
   role: member
   person_id: ocd-person/68934441-84b3-48c7-b8a5-a694744f9e3b
